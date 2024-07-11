@@ -27,7 +27,7 @@ paths:
           required: true
           schema:
             type: string
-          example: data/category.json
+          example:
         - name: ref
           in: query
           required: false
@@ -65,3 +65,11 @@ paths:
                     format: byte
                   encoding:
                     type: string
+components:
+  securitySchemes:
+    BearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
+security:
+  - BearerAuth: []

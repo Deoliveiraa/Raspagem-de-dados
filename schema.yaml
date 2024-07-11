@@ -27,7 +27,7 @@ paths:
           required: true
           schema:
             type: string
-          example: data/Wap.json
+          example: 
         - name: ref
           in: query
           required: false
@@ -40,38 +40,14 @@ paths:
           content:
             application/json:
               schema:
-                type: object
-                properties:
-                  name:
-                    type: string
-                  path:
-                    type: string
-                  sha:
-                    type: string
-                  size:
-                    type: integer
-                  url:
-                    type: string
-                  html_url:
-                    type: string
-                  git_url:
-                    type: string
-                  download_url:
-                    type: string
-                  type:
-                    type: string
-                  content:
-                    type: string
-                    format: byte
-                  encoding:
-                    type: string
+                $ref: '#/components/schemas/FileResponse'
 components:
   securitySchemes:
     BearerAuth:
       type: http
       scheme: bearer
       bearerFormat: JWT
-  schemas:  # Adicionando a seção de schemas como um objeto
+  schemas:
     FileResponse:
       type: object
       properties:

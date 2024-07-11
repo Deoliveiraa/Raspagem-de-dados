@@ -5,29 +5,17 @@ info:
 servers:
   - url: https://api.github.com
 paths:
-  /repos/{owner}/{repo}/contents/{path}:
+  /repos/Deoliveiraa/Raspagem-de-dados/contents/{path}:
     get:
       summary: Get a file from the repository
       operationId: getFileFromRepository
       parameters:
-        - name: owner
-          in: path
-          required: true
-          schema:
-            type: string
-          example: Deoliveiraa
-        - name: repo
-          in: path
-          required: true
-          schema:
-            type: string
-          example: Raspagem-de-dados
         - name: path
           in: path
           required: true
           schema:
             type: string
-          example: 
+          example: data/
         - name: ref
           in: query
           required: false

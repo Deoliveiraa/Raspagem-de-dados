@@ -17,16 +17,16 @@ options.headless = True  # Executar em modo headless (sem interface gráfica)
 service = Service(ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service, options=options)
 
-# URLs das categorias
-urls = [
-    "https://www.amazon.com.br/s?k=air+fryer",
-    "https://www.amazon.com.br/s?k=wap",
-    "https://www.amazon.com.br/s?k=extratora",
-    "https://www.amazon.com.br/s?k=lavadora+de+alta+press%C3%A3o",
-    "https://www.amazon.com.br/s?k=aspirador+de+p%C3%B3+robo",
-    "https://www.amazon.com.br/s?k=parafusadeira",
-    "https://www.amazon.com.br/s?k=aspirador+de+p%C3%B3+vertical"
-]
+# URLs das categorias com seus respectivos nomes
+urls = {
+    "https://www.amazon.com.br/s?k=air+fryer": "Air fryer",
+    "https://www.amazon.com.br/s?k=wap": "Wap",
+    "https://www.amazon.com.br/s?k=extratora": "Extratora",
+    "https://www.amazon.com.br/s?k=lavadora+de+alta+press%C3%A3o": "Lavadora de Alta pressão",
+    "https://www.amazon.com.br/s?k=aspirador+de+p%C3%B3+robo": "Robô",
+    "https://www.amazon.com.br/s?k=parafusadeira": "Parafusadeira",
+    "https://www.amazon.com.br/s?k=aspirador+de+p%C3%B3+vertical": "Aspirador vertical"
+}
 
 # Função para extrair informações da página
 def extract_info(url):
@@ -80,10 +80,9 @@ def convert_csv_to_json():
 while True:
     # Extraindo dados e criando dataframes
     dataframes = {}
-    for url in urls:
-        category = url.split("=")[-1]
-        print(f"Extraindo dados para a categoria: {category}")
-        dataframes[category] = extract_info(url)
+    for url, name in urls.items():
+        print(f"Extraindo dados para a categoria: {name}")
+        dataframes[name] = extract_info(url)
         time.sleep(2)  # Atraso de 2 segundos entre as requisições
 
     # Salvando os DataFrames em arquivos CSV

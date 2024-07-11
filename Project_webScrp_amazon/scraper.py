@@ -66,7 +66,8 @@ def push_to_github():
     repo_dir = os.getcwd()  # Diretório do repositório
     subprocess.run(["git", "add", "."], cwd=repo_dir)
     subprocess.run(["git", "commit", "-m", "Atualização automática dos arquivos CSV"], cwd=repo_dir)
-    subprocess.run(["git", "push", "--set-upstream", "origin", "main"], cwd=repo_dir)
+    subprocess.run(["git", "pull", "--rebase"], cwd=repo_dir)
+    subprocess.run(["git", "push"], cwd=repo_dir)
 
 # Função para converter CSV para JSON e salvar
 def convert_csv_to_json():

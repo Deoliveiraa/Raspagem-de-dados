@@ -63,13 +63,13 @@
         "title": "Parafusadeira Parafuso Auto Brocante 18v Dfs251z Makita (sem Bat)"
     },
     {
+        "title": "Scotch, 3M, Fixa Forte, Fita Dupla Face, Transparente, 19mm x 2m"
+    },
+    {
         "title": "Parafusadeira/Furadeira de Impacto 1/2\" com 2 Baterias 40V 2.5 Ah, Carregador e Maleta Plástica Makita HP001GD201"
     },
     {
         "title": "Parafusadeira Impacto Eletrica Makita - TD0101 (220v)"
-    },
-    {
-        "title": "Vonder Parafusadeira/Furadeira (Kit) Impacto Bateria 12V Biv Pfbv 012"
     },
     {
         "title": "Furadeira Parafusadeira Impacto 18V Bosch GSB185LI-1B Sem Fio, 1 bateria"
@@ -105,9 +105,6 @@
         "title": "PARAFUSADEIRA/FURAD IMPAC 10MM (3/8POL)"
     },
     {
-        "title": "Furadeira/Parafusadeira 3/8\", FPV 300, 220 V~, Vonder VDO1109"
-    },
-    {
         "title": "Titanium, Parafusadeira A Bateria CARBON 12V Sem Fio com Carregador Bivolt com Maleta e 2 Acessórios"
     },
     {
@@ -117,13 +114,16 @@
         "title": "Black Decker Furadeira e Parafusadeira 3/8 Pol Bateria, 900 RPM, 13 Acessórios, Potência e Versatilidade, Modelo LD12S, 12V"
     },
     {
-        "title": "Bosch Kit De Pontas E Brocas X-Line 33 Pçs"
-    },
-    {
         "title": "Parafusadeira Furadeira Bosch GSR 1000 Smart 12V com cinto para ferramenta"
     },
     {
+        "title": "Bosch Kit De Pontas E Brocas X-Line 33 Pçs"
+    },
+    {
         "title": "MAKITA PARAFUSADEIRA/FURADEIRA DE IMPACTO A BATERIA 12V CXT HP333DWYX3 COM CARREGADOR"
+    },
+    {
+        "title": "Furadeira/Parafusadeira 3/8\", FPV 300, 220 V~, Vonder VDO1109"
     },
     {
         "title": "Black Decker Furadeira e Parafusadeira 3/8 Pol Bateria 12V, com 31 Acessórios e Maleta, Modelo LD12SC, Bivolt"
@@ -168,6 +168,9 @@
         "title": "Parafusadeira 12v Bivolt com Carregador - Pró Euro"
     },
     {
+        "title": "Vonder Parafusadeira/Furadeira (Kit) Impacto Bateria 12V Biv Pfbv 012"
+    },
+    {
         "title": "Parafusadeira/furadeira De Impacto 12v Hp333dz"
     },
     {
@@ -175,8 +178,5 @@
     },
     {
         "title": "Parafusadeira Furadeira de Impacto a Bateria 18V sem Bateria - MAKITA-DHP484Z"
-    },
-    {
-        "title": "Furadeira e parafusadeira Bosch GSB 18V-90C 18V + 2B e maleta"
     }
 ]

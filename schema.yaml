@@ -24,7 +24,7 @@ paths:
           required: true
           schema:
             type: string
-          example: categoria.json
+          example: data/category.json
         - name: ref
           in: query
           required: false

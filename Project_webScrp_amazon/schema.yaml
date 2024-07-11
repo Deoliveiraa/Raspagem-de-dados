@@ -1,0 +1,64 @@
+openapi: 3.0.0
+info:
+  title: GitHub JSON Files API
+  version: 1.0.0
+paths:
+  /repos/{owner}/{repo}/contents/{path}:
+    get:
+      summary: Get a file from the repository
+      parameters:
+        - name: owner
+          in: path
+          required: true
+          schema:
+            type: string
+          example: Deoliveiraa
+        - name: repo
+          in: path
+          required: true
+          schema:
+            type: string
+          example: Raspagem-de-dados
+        - name: path
+          in: path
+          required: true
+          schema:
+            type: string
+          example: categoria.json
+        - name: ref
+          in: query
+          required: false
+          schema:
+            type: string
+          example: main
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  name:
+                    type: string
+                  path:
+                    type: string
+                  sha:
+                    type: string
+                  size:
+                    type: integer
+                  url:
+                    type: string
+                  html_url:
+                    type: string
+                  git_url:
+                    type: string
+                  download_url:
+                    type: string
+                  type:
+                    type: string
+                  content:
+                    type: string
+                    format: byte
+                  encoding:
+                    type: string

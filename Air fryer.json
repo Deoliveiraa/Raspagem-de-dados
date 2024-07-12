@@ -3,13 +3,13 @@
         "title": "Fritadeira Elétrica sem óleo Air Fryer 3,5L 1500W 127V Multi - CE198"
     },
     {
-        "title": "Air Fryer Fritadeira Elétrica Digital Extream 4,5l Preto e Cobre, 127v"
-    },
-    {
         "title": "Fritadeira Elétrica Start Fry Elgin 3,5 Litros Preta 110v - Air Fryer"
     },
     {
         "title": "Fritadeira Air Fryer Britânia BFR46PI 3,5L Display Analógico Preto e Inox 1500W"
+    },
+    {
+        "title": "Fritadeira Air Fryer Fama FFR23PP 360° 4L 1500W 127V"
     },
     {
         "title": "Fritadeira Sem Óleo Air Fryer 4L, Mondial, Preto/Inox, 1500W, 110V - AFN-40-BI"
@@ -60,9 +60,6 @@
         "title": "Philips Walita RI9252/91 Série 3000 - Fritadeira Airfryer Digital, 4.1L de capacidade, 127V, 1400W, Preta"
     },
     {
-        "title": "Fritadeira Air Fryer Fama FFR23PP 360° 4L 1500W 127V"
-    },
-    {
         "title": "Fritadeira Elétrica Chrome Fry Inox Elgin 8L 1900W 110V - Airfryer"
     },
     {
@@ -70,6 +67,9 @@
     },
     {
         "title": "Fritadeira Elétrica Cube Fry Elgin 4,2 Litros 1600W 110V - Airfryer"
+    },
+    {
+        "title": "Fritadeira Elétrica Space 5 Elgin Cesto Removível 5L 1700W 110V - Airfryer"
     },
     {
         "title": "WAP Fritadeira Elétrica Air Fryer 5,2 Litros Temperatura Ajustável com Duplo Revestimento Antiaderente, Cesto e Grelha Removíveis 1500W AIRFRY Grand Family 127V"
@@ -123,9 +123,6 @@
         "title": "Fritadeira Elétrica sem oleo Electrolux Airfryer 3,2L 8 receitas pré-sugeridas desligamento automático timer sonoro 1400W EAF11 branca 220v por Rita Lobo"
     },
     {
-        "title": "Gaabor Air Fryer Fritadeira Elétrica Analógica Sem Óleo 3,5L 1350w 127v"
-    },
-    {
         "title": "Fritadeira Forno Oven Fry 4 em 1 Elgin 12 Litros 220V - Assa, Frita sem óleo, Desidrata e Reaquece - Airfryer"
     },
     {
@@ -156,6 +153,9 @@
         "title": "Fritadeira Sem Óleo Capacidade de 4L, Midea, 1400 W, Aquece Em 10-60 min 80℃ a 200 ℃, Air Fryer Com Fluxo de Ar de 360°, Fritadeira Eletrica, Design Compacto, Preto, 110V, MAF400P0APK"
     },
     {
+        "title": "Gaabor Air Fryer Fritadeira Elétrica Analógica Sem Óleo 3,5L 1350w 127v"
+    },
+    {
         "title": "Fritadeira Mallory Air Fryer Digital Premium 5,5Litros - Painel 100% Digital - 1500W de Potência - 127V"
     },
     {
@@ -168,9 +168,6 @@
         "title": "Fritadeira Air Fryer Britânia Bella Cuccina 3L 1300W BCFR02"
     },
     {
-        "title": "Fritadeira Elétrica Space 5 Elgin Cesto Removível 5L 1700W 110V - Airfryer"
-    },
-    {
         "title": "Fritadeira Elétrica Visio Fry Elgin Cesto removível 5L 1700W 110V - Airfryer"
     },
     {
@@ -178,5 +175,8 @@
     },
     {
         "title": "Oster OFRT520 - Fritadeira Sem Óleo, 220V"
+    },
+    {
+        "title": "Forma Descartável de Papel Quadrada Para Assadeira Air Fryer Com 50 Unidades, Folhas de Pergaminho Quadrada, à Prova De Gordura e Água Antiaderentes Para Assar UTIMAIS+"
     }
 ]

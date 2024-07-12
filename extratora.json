@@ -63,13 +63,13 @@
         "title": "Robô Aspirador de Pó Karcher RCV 3 com Mapeamento Inteligente, Aspira e Passa Pano. Controle via Aplicativo. Autonomia de 120 min. Navegação a Laser LiDAR e Sensor 360° - Bivolt"
     },
     {
-        "title": "Aspirador de Pó Vertical Turbo Cycle, Mondial, Preto/Laranja, 1100W, 220V - AP-35"
-    },
-    {
         "title": "Robô Aspirador de Pó Karcher RCV 1 controle remoto 3 modos de limpeza sensor anti-queda e de colisão – Bivolt"
     },
     {
         "title": "Robô Aspirador de Pó Karcher RCV 5 com Mapeamento Inteligente, Aspira e Passa Pano.Controle via Aplicativo.Autonomia de 120 min. Navegação a Laser LiDAR, Laser Duplo e Inteligência Artificial - Bivolt"
+    },
+    {
+        "title": "Extrator de Conector POP-TOP Para Filtro de Combustível - Kitest"
     },
     {
         "title": "Extratora de Sujeira Britânia BEX2000V 3 em 1 1200W 220V"
@@ -132,6 +132,9 @@
         "title": "Kit com 4 Peças Removedor Extrator de Cravos e Espinhas com Estojo"
     },
     {
+        "title": "Lavaclean Vacuum Cleaner Extractor 16 Liters 1250w 220V Ipc"
+    },
+    {
         "title": "Aspirador e Extratora 35L 1200W 127V - Ipc Soteco - A135EXT"
     },
     {
@@ -144,6 +147,9 @@
         "title": "WAP Bico Extrator Pequeno para Estofados Extratora HOME CLEANER e CARPET CLEANER"
     },
     {
+        "title": "Lâmina extratora, lâmina de corte incisivo resistente à corrosão para restaurante para cozinha para casa"
+    },
+    {
         "title": "Extratora Aspirador Lavaclean 16 Litros 1250w 127V Ipc"
     },
     {
@@ -153,22 +159,13 @@
         "title": "WAP Removedor de Manchas de Tecidos e Estofados 5 Litros WAP REMOVE MANCHAS, Branco e Rosa"
     },
     {
-        "title": "Lâmina extratora, lâmina de corte incisivo resistente à corrosão para restaurante para cozinha para casa"
+        "title": "Aspirador E Extratora 62l 2400w A262ext Ipc Soteco 220v"
     },
     {
         "title": "IPC Extratora Lavadora Aspirador Lava Home 27l 1250w 220v Soteco, Cor: Branca e Verde"
     },
     {
         "title": "LUBEX Extrator De Cravos Enox"
-    },
-    {
-        "title": "Medela Extrator Manual De Leite Materno 150 Ml Amarelo/Branco"
-    },
-    {
-        "title": "Klein Tools Fita de peixe 56334, extrator de fio de aço com ponta de laço duplo, caixa e alça otimizados, para puxadores de fio resistentes"
-    },
-    {
-        "title": "Extrator de Conector POP-TOP Para Filtro de Combustível - Kitest"
     },
     {
         "title": "Extratora Profissional 25 Litros 1600W WAP CARPET CLEANER 220V, Amarelo com Preto"
@@ -178,5 +175,8 @@
     },
     {
         "title": "WAP Soprador e Aspirador de Pó e água Profissional GTW 55 1600W 230 mbar 55 Litros 3 em 1 com Soprador de Folhas Portátil 220V"
+    },
+    {
+        "title": "WAP Aspirador de Pó e Água Profissional 1600W 50 Litros 180 mbar Barril Aço Inox Soprador WAP GTW INOX 50 220V"
     }
 ]

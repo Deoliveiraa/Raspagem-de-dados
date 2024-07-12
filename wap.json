@@ -1,8 +1,5 @@
 [
     {
-        "title": "Lavadora de Alta Pressão WAP OUSADA PLUS 2200 1500W 1750 PSI/Libras 342L/h Jato Leque e Concentrado Máquina Voltagem 127 V"
-    },
-    {
         "title": "WAP COMBATE TURBO 2600 - Lavadora de Alta Pressão, Indução 1700W, 2100 PSI/Libras, 360L/h, Profissional, Semi Intensivo, 127V"
     },
     {
@@ -10,6 +7,9 @@
     },
     {
         "title": "WAP Extratora Potente 1600W 190 mbar CARPET CLEANER PRO 30 220V"
+    },
+    {
+        "title": "Lavadora de Alta Pressão WAP EXTREME TURBO 2800 Indução 1900W 2450 PSI/Libras 360L/h Profissional Semi Intensivo 127V"
     },
     {
         "title": "WAP Spot Cleaner 3 em 1 - Extratora e Higienizadora Portátil, Borrifa, Esfrega e Extrai, 1600W, 127V"
@@ -48,9 +48,6 @@
         "title": "Lavadora de Alta Pressão WAP LÍDER 2200 1750W 1800 PSI/Libras 360L/h Jato Leque e Concentrado Máquina 127V"
     },
     {
-        "title": "WAP Extratora Portátil Spot Cleaner W3 1450W de Potência e Vácuo de 110Mbar 3 em 1 Borrifa, Esfrega e Extrai 127V"
-    },
-    {
         "title": "WAP Aspirador de Pó High Speed Plus 3 em 1 Vertical e de Mão 1350W, com Bico Canto e Tecnologia Cyclone 127V"
     },
     {
@@ -58,6 +55,9 @@
     },
     {
         "title": "Aspirador de Pó Robô WAP ROBOT W100 Bivolt Automático 3 em 1 Varre Aspira e Passa Pano MOP para Limpeza"
+    },
+    {
+        "title": "WAP WAPORE UP - Extratora e Higienizadora com Vapor e MOP, Aspirador de Pó Vertical, 1600W, Passa Pano, Limpa e dá Brilho, 127V, Branco, Titanium e Azul"
     },
     {
         "title": "WAP Limpador de Tecidos com Espuma WAP LIMPA TECIDOS, Branco e Roxo, 500ML, CP3243"
@@ -70,9 +70,6 @@
     },
     {
         "title": "WAP Detergente Limpador Para Extratoras Limpa E Extrai 5L Com Fragrância E Sem Espuma Branco E Azul"
-    },
-    {
-        "title": "WAP WAPORE UP - Extratora e Higienizadora com Vapor e MOP, Aspirador de Pó Vertical, 1600W, Passa Pano, Limpa e dá Brilho, 127V, Branco, Titanium e Azul"
     },
     {
         "title": "WAP Umidificador de Ar Ultrassônico 2,3 Litros com Luminária e Aromatizador de Ambientes WAP AIR FLOW U2 Bivolt"
@@ -96,16 +93,19 @@
         "title": "Extratora e Higienizadora Vertical WAP POWER CLEANER PRO 2000W 2 em 1 Escova Elétrica Tapetes e Carpetes 127V"
     },
     {
-        "title": "WAP Fritadeira Elétrica Air Fryer Oven Digital 12 Litros Sem Óleo 10 Funções e Timer de 24h Aviso Sonoro 1800W Antiaderente WAP AIRFRY 12L 220V"
-    },
-    {
         "title": "WAP Limpador De Porcelanatos Pisos E Superfícies Limpa Pisos 1 Litro Branco E Azul"
     },
     {
-        "title": "Lavadora Alta Pressão Wap Ágil 1400w 127v"
+        "title": "WAP Extratora Portátil Spot Cleaner W3 1450W de Potência e Vácuo de 110Mbar 3 em 1 Borrifa, Esfrega e Extrai 127V"
+    },
+    {
+        "title": "WAP Fritadeira Elétrica Air Fryer Oven Digital 12 Litros Sem Óleo 10 Funções e Timer de 24h Aviso Sonoro 1800W Antiaderente WAP AIRFRY 12L 220V"
     },
     {
         "title": "WAP Robô Aspirador de Pó com Controle Remoto e MOP Varre Passa Pano Agenda Limpeza e Autorrecarga ROBOT W400 Bivolt"
+    },
+    {
+        "title": "Lavadora Alta Pressão Wap Ágil 1400w 127v"
     },
     {
         "title": "Lavadora de Alta Pressão WAP EXTREME TURBO 2800 Indução 1900W 2450 PSI/Libras 360L/h Profissional Semi Intensivo 127V"

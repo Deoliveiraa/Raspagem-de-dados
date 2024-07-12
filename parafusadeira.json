@@ -1,8 +1,5 @@
 [
     {
-        "title": "Parafusadeira Philco PPF01 W 4.8V Preto/Azul"
-    },
-    {
         "title": "Furadeira de Impacto Mfi-500w 220v 60hz Menegotti"
     },
     {
@@ -10,6 +7,9 @@
     },
     {
         "title": "Parafusadeira E Furadeira A Bateria Li-Ion 24V Sem Fio Com 2 Baterias Carregador Bivolt Maleta E Kit De 23 Acessórios"
+    },
+    {
+        "title": "WAP Parafusadeira E Furadeira Com Impacto Bpfi 12K4 A Bateria Li-Íon De 12V Torque 18 Níveis Sem Fio Maleta E Kit De 13 Acessórios Bivolt"
     },
     {
         "title": "WAP Parafusadeira E Furadeira A Bateria Li-Ion 12V Bpf 12K3 Carregador Bivolt Sem Fio Com Maleta E Kit De 13 Acessórios"
@@ -60,9 +60,6 @@
         "title": "Furadeira Parafusadeira Impacto 18V Bosch GSB185LI-1B Sem Fio, 1 bateria"
     },
     {
-        "title": "WAP Parafusadeira E Furadeira Com Impacto Bpfi 12K4 A Bateria Li-Íon De 12V Torque 18 Níveis Sem Fio Maleta E Kit De 13 Acessórios Bivolt"
-    },
-    {
         "title": "Black Decker Lixadeira Orbital, Potente e Eficiente, 200W, Modelo BS200, 127V"
     },
     {
@@ -70,6 +67,9 @@
     },
     {
         "title": "Parafusadeira Parafuso Auto Brocante 18v Dfs251z Makita (sem Bat)"
+    },
+    {
+        "title": "Bosch Furadeira De Impacto Gsb 13 Re 650W 127V Com Maleta"
     },
     {
         "title": "Bosch Parafusadeira Furadeira Gsr 120-Li 12V 1 Bateria E Maleta - Azul"
@@ -138,19 +138,19 @@
         "title": "Stanley Furadeira e Parafusadeira MAX Bivolt, Kit com 2 Baterias e Maleta, Modelo SCD700C2K, 20V"
     },
     {
-        "title": "WAP Furadeira de Impacto e Parafusadeira 700W WAP WF 700FE com Chave de Mandril 3/8\" Elétrica com Controle de Velocidade 220V"
+        "title": "WAP Parafusadeira e Furadeira de Impacto 21V 3/8\" 45Nm 21 Níveis de Torque Bateria Li-Íon 1500 mAh 2 Velocidades Compacto e com Maleta WAP K21 ID01"
     },
     {
-        "title": "WAP Parafusadeira e Furadeira de Impacto 21V 3/8\" 45Nm 21 Níveis de Torque Bateria Li-Íon 1500 mAh 2 Velocidades Compacto e com Maleta WAP K21 ID01"
+        "title": "WAP Furadeira de Impacto e Parafusadeira 700W WAP WF 700FE com Chave de Mandril 3/8\" Elétrica com Controle de Velocidade 220V"
     },
     {
         "title": "Black Decker Furadeira e Parafusadeira 3/8 Pol Bateria 12V, com 31 Acessórios e Maleta, Modelo LD12SC, Bivolt"
     },
     {
-        "title": "Parafusadeira 4,8V Ppf01Mf, Philco, 051105014, Azul/Preto/Cinza"
+        "title": "Kit Chave De Impacto Parafusadeira e Furadeira + Jogo Soquete 46pç"
     },
     {
-        "title": "Kit Chave De Impacto Parafusadeira e Furadeira + Jogo Soquete 46pç"
+        "title": "Parafusadeira 4,8V Ppf01Mf, Philco, 051105014, Azul/Preto/Cinza"
     },
     {
         "title": "STANLEY Kit Parafusadeira e Furadeira de Impacto 1/2 Pol. (12mm) 20V MAX* com Bateria Bivolt e Maleta SCD711C1K"
@@ -174,9 +174,9 @@
         "title": "Parafusadeira E Furadeira Impacto Profissional Bateria Li-Ion 24V Sem Fio Com 2 Baterias Carregador Bivolt Maleta E Kit De 23 Acessórios Premium"
     },
     {
-        "title": "Bosch Furadeira De Impacto Gsb 13 Re 650W 127V Com Maleta"
+        "title": "Maleta com Brocas e Ponteiras 110 Peças Tramontina"
     },
     {
-        "title": "Maleta com Brocas e Ponteiras 110 Peças Tramontina"
+        "title": "Parafusadeira/Furadeira de Impacto 1/2\" com 2 Baterias 40V 2.5 Ah, Carregador e Maleta Plástica Makita HP001GD201"
     }
 ]

@@ -9,14 +9,6 @@ import os
 import subprocess
 import json
 
-# Configurações do Selenium
-options = Options()
-options.headless = True  # Executar em modo headless (sem interface gráfica)
-
-# Use o ChromeDriverManager para instalar o ChromeDriver
-service = Service(ChromeDriverManager().install())
-driver = webdriver.Chrome(service=service, options=options)
-
 # URLs das categorias com seus respectivos nomes
 urls = {
     "https://www.amazon.com.br/s?k=air+fryer": "Air fryer",
@@ -28,8 +20,16 @@ urls = {
     "https://www.amazon.com.br/s?k=aspirador+de+p%C3%B3+vertical": "Aspirador vertical"
 }
 
+# Função para configurar e retornar o driver
+def get_driver():
+    options = Options()
+    options.headless = True  # Executar em modo headless (sem interface gráfica)
+    service = Service(ChromeDriverManager().install())
+    driver = webdriver.Chrome(service=service, options=options)
+    return driver
+
 # Função para extrair informações da página
-def extract_info(url):
+def extract_info(driver, url):
     driver.get(url)
     time.sleep(7)  # Esperar a página carregar completamente
     
@@ -78,12 +78,18 @@ def convert_csv_to_json():
 
 # Loop de execução contínua
 while True:
+    # Inicializar o driver
+    driver = get_driver()
+
     # Extraindo dados e criando dataframes
     dataframes = {}
     for url, name in urls.items():
         print(f"Extraindo dados para a categoria: {name}")
-        dataframes[name] = extract_info(url)
+        dataframes[name] = extract_info(driver, url)
         time.sleep(2)  # Atraso de 2 segundos entre as requisições
+
+    # Fechar o driver após a extração
+    driver.quit()
 
     # Salvando os DataFrames em arquivos CSV
     for category, df in dataframes.items():
@@ -97,6 +103,3 @@ while True:
     
     # Esperar 5 minutos antes da próxima execução
     time.sleep(300)
-
-# Fechar o driver
-driver.quit()

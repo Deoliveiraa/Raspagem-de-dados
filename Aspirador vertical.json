@@ -1,8 +1,5 @@
 [
     {
-        "title": "Aspirador de Pó Vertical Turbo Cycle, Mondial, Preto/Laranja, 1100W, 220V - AP-35"
-    },
-    {
         "title": "WAP Aspirador de Pó e Água Profissional 1600W 50 Litros 180 mbar Barril Aço Inox Soprador WAP GTW INOX 50 220V"
     },
     {
@@ -10,6 +7,9 @@
     },
     {
         "title": "Aspirador de Pó Vertical WAP POWER SPEED 2000W 3L Potente 2 em 1 com Mangueira Extensora Flexível 127V"
+    },
+    {
+        "title": "Robô Aspirador de Pó LILIN XR500, reconhecimento de obstáculos,110/220V Bivolt, 5000KPa, mapa de memória multicamada, limpeza personalizada, ajuste multilíngue, ultrafino e silencioso"
     },
     {
         "title": "Electrolux, STK15 PowerSpeed Ultra - Aspirador Vertical com Fio, 127V, Urban Grey"
@@ -36,7 +36,7 @@
         "title": "Aspirador de Pó vertical bateria Ergorapido 2 em 1 Electrolux 21min 2 velocidades capacidade 460Ml ERG21 Bivolt Branco"
     },
     {
-        "title": "Aspirador de Pó Vertical 2 em 1 Kärcher VCL 2 com filtro 127V"
+        "title": "Aspirador de Pó Vertical 2 em 1 Kärcher VCL 2 com filtro 220V"
     },
     {
         "title": "WAP Aspirador de Pó High Speed Plus 3 em 1 Vertical e de Mão 1350W, com Bico Canto e Tecnologia Cyclone 127V"
@@ -168,9 +168,6 @@
         "title": "Aspirador de Pó Vertical e Portátil Sem Fio WAP ULTRA MOB 2 em 1 com Mangueira a Bateria Carregador Bivolt"
     },
     {
-        "title": "Aspirador de Pó Robô Mondial, Pratic Clean, Bivolt, Cinza/Preto, 30W - RB-11"
-    },
-    {
         "title": "Robô Aspirador de Pó XR500 LILIN Dual Voltage, Versão 2024 Mapa de Memória Multicamada, Área de Planejamento Personalizado, Pacote de Idiomas Ajustável, Adequado para Chupar Cabelos e Pisos Duros"
     },
     {
@@ -178,5 +175,8 @@
     },
     {
         "title": "Lilin Robô Aspirador de Pó navegação inteligente C30B(Slim), Aspirador e esfregão 2 em 1, 110/220V Bivolt, Autocarregamento, Conexão Wi-Fi, Funciona com Alexa, Para Carpetes e Pisos Rígidos, Do Brasil"
+    },
+    {
+        "title": "LILIN Robô aspirador de pó XR500 com navegação LIDAR, Sucção forte, 110/220V Bivolt, Aspirador com Tank e Esfregona, Recarga automática e retoma a limpeza, 130min Tempo de execução, Funciona com Alexa"
     }
 ]

@@ -64,6 +64,10 @@
         "price": "319,90"
     },
     {
+        "title": "Parafusadeira a Bateria Bosch Go 3,6V BIVOLT com 2 bits",
+        "price": "358,93"
+    },
+    {
         "title": "Parafusadeira E Furadeira A Bateria Li-Ion 24V Sem Fio Com 2 Baterias Carregador Bivolt Maleta E Kit De 23 Acessórios",
         "price": "299,90"
     },
@@ -72,12 +76,8 @@
         "price": "164,33"
     },
     {
-        "title": "Parafusadeira a Bateria Bosch Go 3,6V BIVOLT com 2 bits",
-        "price": "358,93"
-    },
-    {
-        "title": "Bosch Parafusadeira Furadeira Gsr 120-Li 12V 1 Bateria E Maleta - Azul",
-        "price": "398,90"
+        "title": "Black Decker Furadeira e Parafusadeira VRR com 2 velocidades, Furadeira de Impacto 360 RPM a 1.400 RPM, 110V, Modelo BCD704C1, 20V",
+        "price": "465,87"
     },
     {
         "title": "Stanley Chave de Impacto 1/2\" Sem Fio Com Maleta de Ferramentas, Ferramenta Profissional 2 Velocidades, 2 Baterias, 1 Carregador, Modelo SBW920M2K, 20V",
@@ -96,8 +96,8 @@
         "price": "253,88"
     },
     {
-        "title": "Black Decker Furadeira e Parafusadeira VRR com 2 velocidades, Furadeira de Impacto 360 RPM a 1.400 RPM, 110V, Modelo BCD704C1, 20V",
-        "price": "465,87"
+        "title": "Bosch Parafusadeira Furadeira Gsr 120-Li 12V 1 Bateria E Maleta - Azul",
+        "price": "398,90"
     },
     {
         "title": "Furadeira Parafusadeira Impacto 18V Bosch GSB185LI-1B Sem Fio, 1 bateria",
@@ -120,6 +120,10 @@
         "price": "665,90"
     },
     {
+        "title": "Parafusadeira Recarregável, Mondial, Vermelho/Preto, 4,8V, Bivolt - FPF-05",
+        "price": "122,67"
+    },
+    {
         "title": "Furadeira/Parafusadeira 3/8\", FPV 300, 220 V~, Vonder VDO1109",
         "price": "169,90"
     },
@@ -130,10 +134,6 @@
     {
         "title": "Black Decker Kit Parafusadeira a Bateria 6,3mm Com 15 Acessórios para Ferramentas, Modelo KC4815K, Carregador Bivolt, 4,8V",
         "price": "165,90"
-    },
-    {
-        "title": "Parafusadeira Recarregável, Mondial, Vermelho/Preto, 4,8V, Bivolt - FPF-05",
-        "price": "122,67"
     },
     {
         "title": "MAKITA PARAFUSADEIRA/FURADEIRA DE IMPACTO A BATERIA 12V CXT HP333DWYX3 COM CARREGADOR",
@@ -148,12 +148,12 @@
         "price": "126,41"
     },
     {
-        "title": "WAP Parafusadeira e Furadeira de Impacto 21V 3/8\" 45Nm 21 Níveis de Torque Bateria Li-Íon 1500 mAh 2 Velocidades Compacto e com Maleta WAP K21 ID01",
-        "price": "419,99"
-    },
-    {
         "title": "Bosch Parafusadeira Furadeira Impacto Gsb 18V-50 18V Brushless Com 2 Baterias 1 Carregador E Maleta",
         "price": "999,00"
+    },
+    {
+        "title": "WAP Parafusadeira e Furadeira de Impacto 21V 3/8\" 45Nm 21 Níveis de Torque Bateria Li-Íon 1500 mAh 2 Velocidades Compacto e com Maleta WAP K21 ID01",
+        "price": "419,99"
     },
     {
         "title": "Bosch Kit De Pontas E Brocas X-Line 33 Pçs",
@@ -164,12 +164,12 @@
         "price": "871,90"
     },
     {
-        "title": "Black Decker Furadeira e Parafusadeira 3/8 Pol Bateria, 900 RPM, 13 Acessórios, Potência e Versatilidade, Modelo LD12S, 12V",
-        "price": "222,99"
-    },
-    {
         "title": "Bosch Kit Parafusadeira Gsr 120-Li E Chave De Impacto Gdr 120-Li 12V Com 2 Baterias 1 Carregador E 1 Maleta",
         "price": "997,99"
+    },
+    {
+        "title": "Black Decker Furadeira e Parafusadeira 3/8 Pol Bateria, 900 RPM, 13 Acessórios, Potência e Versatilidade, Modelo LD12S, 12V",
+        "price": "222,99"
     },
     {
         "title": "WAP Furadeira de Impacto e Parafusadeira 700W WAP WF 700FE com Chave de Mandril 3/8\" Elétrica com Controle de Velocidade 220V",
@@ -220,8 +220,8 @@
         "price": "439,00"
     },
     {
-        "title": "Furadeira de Impacto Bosch GSB 450 RE 450W 127V",
-        "price": "239,90"
+        "title": "Parafusadeira E Furadeira Impacto Profissional Bateria Li-Ion 24V Sem Fio Com 2 Baterias Carregador Bivolt Maleta E Kit De 23 Acessórios Premium",
+        "price": "299,00"
     },
     {
         "title": "Black Decker Furadeira e Parafusadeira 3/8 Pol Bateria 12V, com 31 Acessórios e Maleta, Modelo LD12SC, Bivolt",

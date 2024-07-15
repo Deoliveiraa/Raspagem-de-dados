@@ -1,5 +1,21 @@
 [
     {
+        "title": "Fritadeira Elétrica Air Fryer 3,5L 1500W 127V Preto Multi - GO213",
+        "price": "219,90"
+    },
+    {
+        "title": "Fritadeira Elétrica sem óleo Air Fryer 3,5L 1500W 127V Multi - CE198",
+        "price": "219,90"
+    },
+    {
+        "title": "Fritadeira Elétrica Air Fryer 4L Digital 1500W 127V Preto Multi - GO205",
+        "price": "394,90"
+    },
+    {
+        "title": "Arno, Airfryer air plus e grill digital, 4,2l, Inox, UFE2, 110v",
+        "price": "669,00"
+    },
+    {
         "title": "Fritadeira Sem Óleo Air Fryer 4L, Mondial, Preto/Inox, 1500W, 110V - AFN-40-BI",
         "price": "277,90"
     },
@@ -37,7 +53,7 @@
     },
     {
         "title": "Britania FRITADEIRA AIR FRYER BFR25P 220v",
-        "price": "241,53"
+        "price": "229,00"
     },
     {
         "title": "Fritadeira Sem Óleo Air Fryer 8L, Mondial, Preto/Inox, 1900W, 110V - AFN-80-BI",
@@ -62,6 +78,22 @@
     {
         "title": "Fritadeira Air Fryer Britânia 3L 1300W BFR31 127V",
         "price": "214,46"
+    },
+    {
+        "title": "Liquidificador Oster 1100 Full 3,2L Cinza OLIQ606-220",
+        "price": "184,89"
+    },
+    {
+        "title": "Fritadeira Elétrica Start Fry Elgin 3,5 Litros Preta 110v - Air Fryer",
+        "price": "226,93"
+    },
+    {
+        "title": "Air Fryer Fritadeira Elétrica Digital Extream 4,5l Preto e Cobre, 127v",
+        "price": "388,90"
+    },
+    {
+        "title": "Ventilador Turbo de Mesa 40cm Preto 127V 130W - VL403",
+        "price": "179,90"
     },
     {
         "title": "Fritadeira Air Fryer 5L Britânia BFR40PI Preta 127V",
@@ -190,5 +222,21 @@
     {
         "title": "Fritadeira Elétrica Quick Fryer Elgin 4 Litros Preta com cesta removível 220V - Airfryer",
         "price": "279,99"
+    },
+    {
+        "title": "Fritadeira Airfryer Digital Gadnic 4 Litros 110V",
+        "price": "399,00"
+    },
+    {
+        "title": "Fritadeira Airfryer Vintage Gadnic 3 Litros 110v",
+        "price": "319,00"
+    },
+    {
+        "title": "Fritadeira Air Fryer Britânia BFR46PI 3,5L Display Analógico Preto e Inox 1500W",
+        "price": "394,00"
+    },
+    {
+        "title": "Fritadeira Air Fryer Fama FFR23PP 360° 4L 1500W 220V",
+        "price": "429,90"
     }
 ]

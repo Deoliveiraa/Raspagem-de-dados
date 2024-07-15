@@ -80,6 +80,10 @@
         "price": "1.399,00"
     },
     {
+        "title": "Oral-B PRO Series 2: Escova de dentes elétrica com cabo recarregável, timer, 2 modos de escovação e 1 cabeça.",
+        "price": "247,49"
+    },
+    {
         "title": "Aspirador de Pó Vertical 2 em 1 Karcher VCL 1 com Filtro Hepa 1000W",
         "price": "199,89"
     },
@@ -92,14 +96,6 @@
         "price": "1.799,00"
     },
     {
-        "title": "Karcher Aspirador de Pó Vertical 2 em 1 VCL 3 BATERIA, Cor: Branco",
-        "price": "399,00"
-    },
-    {
-        "title": "Aspirador Robô Eclipse 3 em 1 Varre, Aspira e Passa Pano Bivolt Multi Home - HO410",
-        "price": "299,36"
-    },
-    {
         "title": "Robô Aspirador de Pó Liectroux XR500 Aspira e Passa Pano Voz em Português Automático Inteligente Armazena Vários Mapas Bivolt Volta a Carregar Sozinho Compatível com Alexa (Preto)",
         "price": "2.799,00"
     },
@@ -110,6 +106,10 @@
     {
         "title": "Aspirador de Pó Robô Fast Clean Plus, Bivolt, MONDIAL - RB-03, Preto",
         "price": "504,90"
+    },
+    {
+        "title": "Aspirador Robô Eclipse 3 em 1 Varre, Aspira e Passa Pano Bivolt Multi Home - HO410",
+        "price": "299,36"
     },
     {
         "title": "Robô Aspirador de Pó WAP ROBOT WCONNECT Amazon Alexa Google Assistente Wifi Comando de Voz Automático Inteligente Varre e Passa Pano com Controle Remoto e Base de Auto Recarga Bivolt",
@@ -228,15 +228,15 @@
         "price": "447,99"
     },
     {
+        "title": "Karcher Aspirador de Pó Vertical 2 em 1 VCL 3 BATERIA, Cor: Branco",
+        "price": "399,00"
+    },
+    {
         "title": "Robô aspirador de pó LILIN C30B, exibição de mapa AI, Ele é bivolt recarrega 110/220v, controle de voz WiFi, sucção 5KPa, suporte Alexa e Google, aspirador de pó úmido e seco",
         "price": "1.119,00"
     },
     {
         "title": "LILIN C30B Robô aspirador de pó, exibição de mapa AI, Ele é bivolt recarrega 110/220v, controle de voz WiFi, sucção 5KPa, suporte Alexa e Google, tecnologia Power Boost, Do Brasil",
         "price": "1.119,00"
-    },
-    {
-        "title": "LILIN XR500 Aspirador de pó robô.110/220V .com depósito de água e aspirador de esfregona.Mapa de memória multicamada.Planeamento de áreas.Pacote de idiomas ajustável.Compatível com Alexa.No Brasil",
-        "price": "1.649,00"
     }
 ]

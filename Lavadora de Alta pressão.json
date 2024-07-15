@@ -4,15 +4,15 @@
         "price": "1.023,00"
     },
     {
-        "title": "Kärcher K5 - Lavadora de Alta Pressão, 127v, Motor a Indução",
-        "price": "949,90"
-    },
-    {
         "title": "Lavadora de Alta pressão Kärcher - K2 Plus TURBO - 1740 psi",
         "price": "529,00"
     },
     {
         "title": "Lavadora de Alta Pressão K3.100 Black Lavadora de Alta Pressão K 3.100 Black - 127v",
+        "price": "799,00"
+    },
+    {
+        "title": "Lavadora de Alta Pressão K3.100 Black Lavadora de Alta Pressão K 3.100 Black - 220V",
         "price": "799,00"
     },
     {
@@ -49,7 +49,7 @@
     },
     {
         "title": "Lavadora de alta pressão Electrolux 1800W 1850PSI gratis engate rápido e reservatório detergente shampoozeira lava jato potente econômico preto EWS50 127V",
-        "price": "539,00"
+        "price": "439,00"
     },
     {
         "title": "Tramontina, Lavadora de Alta Pressão, 1200W, 127v",
@@ -69,7 +69,7 @@
     },
     {
         "title": "Lavadora de alta pressão Electrolux 2200PSI 1800W gratis engate rapido reservatorio detergente shampoozeira bico trubo bico vario lava jato potente econômico preto UWS31 220V",
-        "price": "699,00"
+        "price": "659,00"
     },
     {
         "title": "Lavadora Alta Pressão Lava Jato Portátil Sem Fio Recarregável Bivolt 127V 220V Limpeza Casa Apartamento Lavagem Carro Moto Split Preta Com Matela",
@@ -84,16 +84,16 @@
         "price": "749,90"
     },
     {
-        "title": "Lavadora de Alta Pressão K3.100 Black Lavadora de Alta Pressão K 3.100 Black - 220V",
-        "price": "799,00"
-    },
-    {
-        "title": "Lavadora de Alta pressão Kärcher K2 Plus CAR 220V – 1740 psi",
-        "price": "599,90"
-    },
-    {
         "title": "Lavadora de Alta Pressao Agua Quente/Frio 2175lbs Karcher HDS 12/15 380V Trifasica - 10289090",
         "price": "29.900,00"
+    },
+    {
+        "title": "Lavadora de Alta Pressão Kärcher - K2 Plus - 1740 psi",
+        "price": "529,00"
+    },
+    {
+        "title": "Lavadora de Alta Pressão 2.175 Libras 500 Litros/Hora Karcher HD585 Profi New (220V)",
+        "price": "2.599,00"
     },
     {
         "title": "WAP Lavadora de Alta Pressão WL1820 Potência de 1400W e 1500 PSI com Agulha Desobstruidora Bico Ajustável Porta Acessórios 127V",
@@ -216,27 +216,27 @@
         "price": "529,00"
     },
     {
-        "title": "Lavadora de Alta Pressão Vonder LAV 1200 - 1300 libras - 220 volts",
-        "price": "N/A"
-    },
-    {
         "title": "Lavadora Alta Pressão One 120 1600PSI 127V - Lavor",
         "price": "379,00"
     },
     {
-        "title": "Lavadora de Alta Pressão Kärcher - K2 Plus - 1740 psi",
-        "price": "529,00"
+        "title": "Lavadora de Alta Pressão Vonder LAV 1200 - 1300 libras - 220 volts",
+        "price": "N/A"
     },
     {
         "title": "Lavadora de Alta Pressão Kärcher - K2 Plus - 1740 psi",
         "price": "529,00"
-    },
-    {
-        "title": "Lavadora de Alta Pressão 2.175 Libras 500 Litros/Hora Karcher HD585 Profi New (220V)",
-        "price": "2.599,00"
     },
     {
         "title": "Lavadora de Alta Pressão Karcher K3 Force Turbo (127)",
         "price": "729,00"
+    },
+    {
+        "title": "Lavadora de Alta Pressão LR-14 Motor 1.0CV- ZM BOMBAS",
+        "price": "2.599,00"
+    },
+    {
+        "title": "Lavadora de Alta Pressao 2200psi 1700W GL-1700 Garthen 220V",
+        "price": "1.029,00"
     }
 ]

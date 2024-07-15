@@ -65,7 +65,7 @@
     },
     {
         "title": "Aspirador pó vertical com fio portátil de mão 2 em 1 1100W cabo 5m capacidade 1,2L filtro HEPA Electrolux STK13 A 127v",
-        "price": "179,00"
+        "price": "189,00"
     },
     {
         "title": "Aspirador de Pó Philco Vertical 2 em 1 1450w Preto Pas1600p - 127",
@@ -77,7 +77,7 @@
     },
     {
         "title": "Aspirador pó vertical com fio portátil de mão 2 em 1 1450W cabo 5m capacidade 1,6L filtro HEPA Electrolux STK14 B 127v",
-        "price": "229,00"
+        "price": "222,00"
     },
     {
         "title": "WAP Aspirador de Pó e Água Profissional 1600W 50 Litros 180 mbar Barril Aço Inox Soprador WAP GTW INOX 50 220V",
@@ -172,12 +172,12 @@
         "price": "199,89"
     },
     {
-        "title": "Aspirador pó vertical com fio portátil de mão 2 em 1 1450W cabo 5m capacidade 1,6L filtro HEPA Electrolux STK14 B 220v",
-        "price": "229,00"
-    },
-    {
         "title": "Aspirador vertical sem fio ERG24N, Bivolt, Electrolux",
         "price": "879,00"
+    },
+    {
+        "title": "Aspirador pó vertical com fio portátil de mão 2 em 1 1450W cabo 5m capacidade 1,6L filtro HEPA Electrolux STK14 B 220v",
+        "price": "222,00"
     },
     {
         "title": "Aspirador de Pó Oster, 2 em 1, Vertical, 110V, OASP601",
@@ -204,10 +204,6 @@
         "price": "1.944,00"
     },
     {
-        "title": "Aspirador de pó PAS11P, Philco, Bivolt",
-        "price": "395,90"
-    },
-    {
         "title": "Aspirador de Pó Vertical Britânia Filtro Ciclone 1400W BAS1500V 220V",
         "price": "199,75"
     },
@@ -218,6 +214,10 @@
     {
         "title": "Aspirador de Pó Vertical Sem Fio Oster Duo Clean 2 em 1 - Bateria OASP651",
         "price": "971,19"
+    },
+    {
+        "title": "Aspirador de pó PAS11P, Philco, Bivolt",
+        "price": "395,90"
     },
     {
         "title": "ASPIRADOR DE PÓ VERTICAL ERG28 18V ERGORAPIDO ELECTROLUX SEM FIO 2 EM 1 LUZ LED",

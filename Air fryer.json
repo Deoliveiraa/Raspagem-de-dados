@@ -80,6 +80,10 @@
         "price": "313,53"
     },
     {
+        "title": "Liquidificador Oster 1100 Full 3,2L Cinza OLIQ606-220",
+        "price": "184,89"
+    },
+    {
         "title": "Fritadeira Elétrica Start Fry Elgin 3,5 Litros Preta 110v - Air Fryer",
         "price": "226,93"
     },
@@ -90,10 +94,6 @@
     {
         "title": "Forno e Fritadeira Sem Óleo Oster 42L French Door 2 em 1-220V",
         "price": "1.079,00"
-    },
-    {
-        "title": "Ventilador Turbo de Mesa 40cm Preto 127V 130W - VL403",
-        "price": "179,90"
     },
     {
         "title": "Philips Walita RI9252/91 Série 3000 - Fritadeira Airfryer Digital, 4.1L de capacidade, 127V, 1400W, Preta",
@@ -224,6 +224,10 @@
         "price": "369,00"
     },
     {
+        "title": "Ventilador Turbo de Mesa 40cm Preto 127V 130W - VL403",
+        "price": "179,90"
+    },
+    {
         "title": "Fritadeira Airfryer Digital Gadnic 4 Litros 110V",
         "price": "399,00"
     },
@@ -234,9 +238,5 @@
     {
         "title": "Fritadeira Air Fryer Britânia BFR46PI 3,5L Display Analógico Preto e Inox 1500W",
         "price": "394,00"
-    },
-    {
-        "title": "Fritadeira Airfryer Oven Digital Gadnic 12 Litros 110v",
-        "price": "779,00"
     }
 ]

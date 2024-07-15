@@ -1,182 +1,242 @@
 [
     {
-        "title": "Parafusadeira Philco PPF01 W 4.8V Preto/Azul"
+        "title": "Parafusadeira Philco PPF01 W 4.8V Preto/Azul",
+        "price": "89,90"
     },
     {
-        "title": "Philco PFU01 Furadeira 127V, Preto/Azul"
+        "title": "Pró Euro Parafusadeira Furadeira 18v 10mm Bivolt + Maleta e Acessórios",
+        "price": "332,10"
     },
     {
-        "title": "Pró Euro Parafusadeira Furadeira 18v 10mm Bivolt + Maleta e Acessórios"
+        "title": "Combo Parafusadeira/Furadeira e Chave de Impacto 12V WS1000K2 Wesco",
+        "price": "797,90"
     },
     {
-        "title": "Combo Parafusadeira/Furadeira e Chave de Impacto 12V WS1000K2 Wesco"
+        "title": "WAP Parafusadeira e Furadeira de Impacto 21V 3/8\" 45Nm 21 Níveis de Torque Bateria Li-Íon 1500 mAh 2 Velocidades Compacto e com Maleta WAP K21 ID01",
+        "price": "419,99"
     },
     {
-        "title": "WAP Parafusadeira E Furadeira A Bateria Li-Ion 12V Bpf 12K3 Carregador Bivolt Sem Fio Com Maleta E Kit De 13 Acessórios"
+        "title": "WAP Parafusadeira E Furadeira A Bateria Li-Ion 12V Bpf 12K3 Carregador Bivolt Sem Fio Com Maleta E Kit De 13 Acessórios",
+        "price": "168,32"
     },
     {
-        "title": "Bosch Parafusadeira Furadeira Gsr 1000 Smart 12V Com 1 Bateria 1 Carregador E Maleta"
+        "title": "Bosch Parafusadeira Furadeira Gsr 1000 Smart 12V Com 1 Bateria 1 Carregador E Maleta",
+        "price": "319,90"
     },
     {
-        "title": "Parafusadeira Philco PPF01 W 4.8V Preto/Azul"
+        "title": "Parafusadeira Philco PPF01 W 4.8V Preto/Azul",
+        "price": "89,90"
     },
     {
-        "title": "Parafusadeira Philco PPF03MF Force 3 em 1 c/Maleta 1500rpm - Bateria"
+        "title": "Parafusadeira Philco PPF03MF Force 3 em 1 c/Maleta 1500rpm - Bateria",
+        "price": "199,90"
     },
     {
-        "title": "Vonder Parafusadeira E Furadeira 12V 3/8 Pfv012I Com Impacto Bivolt"
+        "title": "Vonder Parafusadeira E Furadeira 12V 3/8 Pfv012I Com Impacto Bivolt",
+        "price": "232,89"
     },
     {
-        "title": "Vonder Parafusadeira/Furadeira A Bateria 12V Pfv120 Bivolt"
+        "title": "Vonder Parafusadeira/Furadeira A Bateria 12V Pfv120 Bivolt",
+        "price": "189,00"
     },
     {
-        "title": "Vonder Parafusadeira/Furadeira Com Bateria Carregador Bivolt Automático Pfv 012 12 V"
+        "title": "Vonder Parafusadeira/Furadeira Com Bateria Carregador Bivolt Automático Pfv 012 12 V",
+        "price": "216,90"
     },
     {
-        "title": "Parafusadeira e Furadeira de Impacto 12v a Bateria e Maleta + Acessórios - Bivolt - Yoshita"
+        "title": "Parafusadeira e Furadeira de Impacto 12v a Bateria e Maleta + Acessórios - Bivolt - Yoshita",
+        "price": "139,97"
     },
     {
-        "title": "WAP Parafusadeira E Furadeira Com Impacto Bpfi 12K4 A Bateria Li-Íon De 12V Torque 18 Níveis Sem Fio Maleta E Kit De 13 Acessórios Bivolt"
+        "title": "WAP Parafusadeira E Furadeira Com Impacto Bpfi 12K4 A Bateria Li-Íon De 12V Torque 18 Níveis Sem Fio Maleta E Kit De 13 Acessórios Bivolt",
+        "price": "229,98"
     },
     {
-        "title": "Black Decker Parafusadeira, Bateria 4.8V, com16 Acessórios, Modelo KC4815B, Bivolt"
+        "title": "Black Decker Parafusadeira, Bateria 4.8V, com16 Acessórios, Modelo KC4815B, Bivolt",
+        "price": "134,30"
     },
     {
-        "title": "Bosch Parafusadeira E Furadeira Gsr 7-14 E 400W 127V Com Cabo De 4M"
+        "title": "Bosch Parafusadeira E Furadeira Gsr 7-14 E 400W 127V Com Cabo De 4M",
+        "price": "319,90"
     },
     {
-        "title": "Vonder Furadeira Parafusadeira Impacto 3 * 8 12V A Bateria, AMARELO/PRETO"
+        "title": "Vonder Furadeira Parafusadeira Impacto 3 * 8 12V A Bateria, AMARELO/PRETO",
+        "price": "367,90"
     },
     {
-        "title": "Parafusadeira E Furadeira A Bateria Li-Ion 24V Sem Fio Com 2 Baterias Carregador Bivolt Maleta E Kit De 23 Acessórios"
+        "title": "Parafusadeira E Furadeira A Bateria Li-Ion 24V Sem Fio Com 2 Baterias Carregador Bivolt Maleta E Kit De 23 Acessórios",
+        "price": "299,90"
     },
     {
-        "title": "Furadeira Parafusadeira Impacto 18V Bosch GSB185LI-1B Sem Fio, 1 bateria"
+        "title": "Furadeira Parafusadeira Impacto 18V Bosch GSB185LI-1B Sem Fio, 1 bateria",
+        "price": "799,90"
     },
     {
-        "title": "Parafusadeira a Bateria Bosch Go 3,6V BIVOLT com 2 bits"
+        "title": "Parafusadeira a Bateria Bosch Go 3,6V BIVOLT com 2 bits",
+        "price": "358,93"
     },
     {
-        "title": "Black Decker Parafusadeira a Bateria Íon Lítio 4V, com Torque Potênte, Modelo BD40K4, Bivolt"
+        "title": "Black Decker Parafusadeira a Bateria Íon Lítio 4V, com Torque Potênte, Modelo BD40K4, Bivolt",
+        "price": "164,33"
     },
     {
-        "title": "Scotch, 3M, Fixa Forte, Fita Dupla Face, Fixação Extrema, 24mm x 2m"
+        "title": "Scotch, 3M, Fixa Forte, Fita Dupla Face, Fixação Extrema, 24mm x 2m",
+        "price": "32,90"
     },
     {
-        "title": "Stanley Parafusadeira e Furadeira de Impacto 10mm, Sem Fio com Maleta de Ferramentas, 20 Posições de Torque, 2 Baterias 12V 1,5Ah, 1 Carregador Bivolt, Modelo SCH121S2K-BR"
+        "title": "Stanley Parafusadeira e Furadeira de Impacto 10mm, Sem Fio com Maleta de Ferramentas, 20 Posições de Torque, 2 Baterias 12V 1,5Ah, 1 Carregador Bivolt, Modelo SCH121S2K-BR",
+        "price": "566,91"
     },
     {
-        "title": "Scotch, 3M, Fixa Forte, Fita Dupla Face, Transparente, 24mm x 2m"
+        "title": "Scotch, 3M, Fixa Forte, Fita Dupla Face, Transparente, 24mm x 2m",
+        "price": "32,45"
     },
     {
-        "title": "Scotch, 3M, Fixa Forte, Fita Dupla Face, Transparente, 19mm x 2m"
+        "title": "Scotch, 3M, Fixa Forte, Fita Dupla Face, Transparente, 19mm x 2m",
+        "price": "27,81"
     },
     {
-        "title": "Black Decker Furadeira e Parafusadeira VRR com 2 velocidades, Furadeira de Impacto 360 RPM a 1.400 RPM, 110V, Modelo BCD704C1, 20V"
+        "title": "Black Decker Furadeira e Parafusadeira VRR com 2 velocidades, Furadeira de Impacto 360 RPM a 1.400 RPM, 110V, Modelo BCD704C1, 20V",
+        "price": "465,87"
     },
     {
-        "title": "Vonder, Parafusadeira/Furadeira Com Impacto A Bateria, 12 V, Fonte Bivolt Automática, Pfv 120i."
+        "title": "Vonder, Parafusadeira/Furadeira Com Impacto A Bateria, 12 V, Fonte Bivolt Automática, Pfv 120i.",
+        "price": "219,01"
     },
     {
-        "title": "Bosch Parafusadeira Furadeira Gsr 120-Li 12V 1 Bateria E Maleta - Azul"
+        "title": "Bosch Parafusadeira Furadeira Gsr 120-Li 12V 1 Bateria E Maleta - Azul",
+        "price": "398,97"
     },
     {
-        "title": "DEWALT Parafusadeira e Furaderia de 1/2 Pol. (13mm) Brushless Motor a Bateria 20V MAX* Ion-Litio com 2 Baterias 2.0Ah e Carregador Bivolt e Maleta DCD7771D2"
+        "title": "DEWALT Parafusadeira e Furaderia de 1/2 Pol. (13mm) Brushless Motor a Bateria 20V MAX* Ion-Litio com 2 Baterias 2.0Ah e Carregador Bivolt e Maleta DCD7771D2",
+        "price": "1.177,00"
     },
     {
-        "title": "Black Decker Furadeira e Parafusadeira 3/8 Pol Bateria, com 13 Acessórios e Caixa Transparente, Modelo LD12SP, Bivolt"
+        "title": "Black Decker Furadeira e Parafusadeira 3/8 Pol Bateria, com 13 Acessórios e Caixa Transparente, Modelo LD12SP, Bivolt",
+        "price": "253,88"
     },
     {
-        "title": "Bosch Parafusadeira E Furadeira De Impacto De ½' Gsb 180-Li 18V Com 1 Bateria 1 Carregador Bivolt E 1 Maleta"
+        "title": "Bosch Parafusadeira E Furadeira De Impacto De ½' Gsb 180-Li 18V Com 1 Bateria 1 Carregador Bivolt E 1 Maleta",
+        "price": "665,90"
     },
     {
-        "title": "Furadeira/Parafusadeira 3/8\", FPV 300, 220 V~, Vonder VDO1109"
+        "title": "Furadeira/Parafusadeira 3/8\", FPV 300, 220 V~, Vonder VDO1109",
+        "price": "169,90"
     },
     {
-        "title": "MAKITA PARAFUSADEIRA/FURADEIRA DE IMPACTO A BATERIA 12V CXT HP333DWYX3 COM CARREGADOR"
+        "title": "MAKITA PARAFUSADEIRA/FURADEIRA DE IMPACTO A BATERIA 12V CXT HP333DWYX3 COM CARREGADOR",
+        "price": "509,90"
     },
     {
-        "title": "Black Decker Kit Parafusadeira a Bateria 6,3mm Com 15 Acessórios para Ferramentas, Modelo KC4815K, Carregador Bivolt, 4,8V"
+        "title": "Black Decker Kit Parafusadeira a Bateria 6,3mm Com 15 Acessórios para Ferramentas, Modelo KC4815K, Carregador Bivolt, 4,8V",
+        "price": "165,90"
     },
     {
-        "title": "Titanium, Parafusadeira A Bateria CARBON 12V Sem Fio com Carregador Bivolt com Maleta e 2 Acessórios"
+        "title": "Titanium, Parafusadeira A Bateria CARBON 12V Sem Fio com Carregador Bivolt com Maleta e 2 Acessórios",
+        "price": "150,17"
     },
     {
-        "title": "Parafusadeira Recarregável, Mondial, Vermelho/Preto, 4,8V, Bivolt - FPF-05"
+        "title": "Parafusadeira Recarregável, Mondial, Vermelho/Preto, 4,8V, Bivolt - FPF-05",
+        "price": "122,67"
     },
     {
-        "title": "Furadeira e Parafusadeira Portátil com 2 baterias 36V + Kit Maleta com Acessórios - Bivolt"
+        "title": "Furadeira e Parafusadeira Portátil com 2 baterias 36V + Kit Maleta com Acessórios - Bivolt",
+        "price": "250,00"
     },
     {
-        "title": "Parafusadeira A Bateria 3,6 V, Carregador Bivolt, Jogo Com 12 Acessórios, Pbv 120, Vonder."
+        "title": "Parafusadeira A Bateria 3,6 V, Carregador Bivolt, Jogo Com 12 Acessórios, Pbv 120, Vonder.",
+        "price": "126,41"
     },
     {
-        "title": "WAP Parafusadeira e Furadeira de Impacto 21V 3/8\" 45Nm 21 Níveis de Torque Bateria Li-Íon 1500 mAh 2 Velocidades Compacto e com Maleta WAP K21 ID01"
+        "title": "WAP Parafusadeira e Furadeira de Impacto 21V 3/8\" 45Nm 21 Níveis de Torque Bateria Li-Íon 1500 mAh 2 Velocidades Compacto e com Maleta WAP K21 ID01",
+        "price": "419,99"
     },
     {
-        "title": "Bosch Parafusadeira Furadeira Impacto Gsb 18V-50 18V Brushless Com 2 Baterias 1 Carregador E Maleta"
+        "title": "Bosch Parafusadeira Furadeira Impacto Gsb 18V-50 18V Brushless Com 2 Baterias 1 Carregador E Maleta",
+        "price": "999,00"
     },
     {
-        "title": "Bosch Kit De Pontas E Brocas X-Line 33 Pçs"
+        "title": "Bosch Kit De Pontas E Brocas X-Line 33 Pçs",
+        "price": "68,90"
     },
     {
-        "title": "WAP Furadeira de Impacto e Parafusadeira 700W WAP WF 700FE com Chave de Mandril 3/8\" Elétrica com Controle de Velocidade 220V"
+        "title": "WAP Furadeira de Impacto e Parafusadeira 700W WAP WF 700FE com Chave de Mandril 3/8\" Elétrica com Controle de Velocidade 220V",
+        "price": "169,90"
     },
     {
-        "title": "Black Decker Furadeira e Parafusadeira 3/8 Pol Bateria, 900 RPM, 13 Acessórios, Potência e Versatilidade, Modelo LD12S, 12V"
+        "title": "Black Decker Furadeira e Parafusadeira 3/8 Pol Bateria, 900 RPM, 13 Acessórios, Potência e Versatilidade, Modelo LD12S, 12V",
+        "price": "222,99"
     },
     {
-        "title": "Furadeira e Parafusadeira à Bateria, Mondial, Vermelho, 12V, Bivolt - FPF-06M"
+        "title": "Furadeira e Parafusadeira à Bateria, Mondial, Vermelho, 12V, Bivolt - FPF-06M",
+        "price": "202,83"
     },
     {
-        "title": "Bosch Parafusadeira Furadeira Gsb 180-Li 18V Com 2 Baterias 1 Carregador E 1 Maleta"
+        "title": "Bosch Parafusadeira Furadeira Gsb 180-Li 18V Com 2 Baterias 1 Carregador E 1 Maleta",
+        "price": "871,90"
     },
     {
-        "title": "Parafusadeira Furadeira Bosch GSR 1000 Smart 12V com cinto para ferramenta"
+        "title": "Parafusadeira Furadeira Bosch GSR 1000 Smart 12V com cinto para ferramenta",
+        "price": "392,16"
     },
     {
-        "title": "Bosch Kit Parafusadeira Gsr 120-Li E Chave De Impacto Gdr 120-Li 12V Com 2 Baterias 1 Carregador E 1 Maleta"
+        "title": "Bosch Kit Parafusadeira Gsr 120-Li E Chave De Impacto Gdr 120-Li 12V Com 2 Baterias 1 Carregador E 1 Maleta",
+        "price": "997,99"
     },
     {
-        "title": "Parafusadeira Furadeira e Chave De Impacto Sem Fio 48v 2 Baterias Bivolt"
+        "title": "Parafusadeira Furadeira e Chave De Impacto Sem Fio 48v 2 Baterias Bivolt",
+        "price": "510,00"
     },
     {
-        "title": "PARAFUSADEIRA/FURAD IMPAC 10MM (3/8POL)"
+        "title": "PARAFUSADEIRA/FURAD IMPAC 10MM (3/8POL)",
+        "price": "723,50"
     },
     {
-        "title": "Black Decker Furadeira e Parafusadeira 3/8 Pol Bateria 12V, com 31 Acessórios e Maleta, Modelo LD12SC, Bivolt"
+        "title": "Black Decker Furadeira e Parafusadeira 3/8 Pol Bateria 12V, com 31 Acessórios e Maleta, Modelo LD12SC, Bivolt",
+        "price": "284,99"
     },
     {
-        "title": "Stanley Furadeira e Parafusadeira MAX Bivolt, Kit com 2 Baterias e Maleta, Modelo SCD700C2K, 20V"
+        "title": "Stanley Furadeira e Parafusadeira MAX Bivolt, Kit com 2 Baterias e Maleta, Modelo SCD700C2K, 20V",
+        "price": "685,86"
     },
     {
-        "title": "PARAFUSADEIRA/FURADEIRA DE IMPACTO ELET."
+        "title": "PARAFUSADEIRA/FURADEIRA DE IMPACTO ELET.",
+        "price": "424,00"
     },
     {
-        "title": "Titanium Parafusadeira E Furadeira A Bateria 1,3AH 12V Sem Fio com Carregador Bivolt e Maleta"
+        "title": "Titanium Parafusadeira E Furadeira A Bateria 1,3AH 12V Sem Fio com Carregador Bivolt e Maleta",
+        "price": "158,90"
     },
     {
-        "title": "STANLEY Kit Parafusadeira e Furadeira de Impacto 1/2 Pol. (12mm) 20V MAX* com Bateria Bivolt e Maleta SCD711C1K"
+        "title": "STANLEY Kit Parafusadeira e Furadeira de Impacto 1/2 Pol. (12mm) 20V MAX* com Bateria Bivolt e Maleta SCD711C1K",
+        "price": "698,58"
     },
     {
-        "title": "Vonder, Parafusadeira/Furadeira Bateria 20V PFV020 Com 18 Posições de Torque e Fonte Bivolt Automático - 60.01.020.000"
+        "title": "Vonder, Parafusadeira/Furadeira Bateria 20V PFV020 Com 18 Posições de Torque e Fonte Bivolt Automático - 60.01.020.000",
+        "price": "556,15"
     },
     {
-        "title": "Furadeira de Impacto Bosch GSB 450 RE 450W 127V"
+        "title": "Furadeira de Impacto Bosch GSB 450 RE 450W 127V",
+        "price": "239,90"
     },
     {
-        "title": "Black Decker Furadeira e Parafusadeira Sem, Parafusadeira com Luz de Led, Potência e Versatilidade, Modelo CD702C1, 20V"
+        "title": "Black Decker Furadeira e Parafusadeira Sem, Parafusadeira com Luz de Led, Potência e Versatilidade, Modelo CD702C1, 20V",
+        "price": "439,00"
     },
     {
-        "title": "WAP Parafusadeira e Furadeira de Impacto 21V 3/8\" 45Nm 21 Níveis de Torque Bateria Li-Íon 1500 mAh 2 Velocidades Compacto e com Maleta WAP K21 ID01"
+        "title": "Parafusadeira E Furadeira Impacto Profissional Bateria Li-Ion 24V Sem Fio Com 2 Baterias Carregador Bivolt Maleta E Kit De 23 Acessórios Premium",
+        "price": "299,00"
     },
     {
-        "title": "Parafusadeira E Furadeira Impacto Profissional Bateria Li-Ion 24V Sem Fio Com 2 Baterias Carregador Bivolt Maleta E Kit De 23 Acessórios Premium"
+        "title": "Scotch, 3M, Fixa Forte, Fita Dupla Face, Transparente, 12mm x 2m",
+        "price": "17,99"
     },
     {
-        "title": "Scotch, 3M, Fixa Forte, Fita Dupla Face, Transparente, 12mm x 2m"
+        "title": "Scotch, 3M, Fixa Forte, Fita Dupla Face, Fixação Extrema, 12mm x 2m",
+        "price": "33,81"
     },
     {
-        "title": "Scotch, 3M, Fixa Forte, Fita Dupla Face, Fixação Extrema, 12mm x 2m"
+        "title": "Kit Jogo de Ferramentas Maleta 129 peças Caixa de Ferramentas Completa Marca GP Lumos",
+        "price": "114,90"
     }
 ]

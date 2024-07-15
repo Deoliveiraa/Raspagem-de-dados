@@ -4,6 +4,8 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 import os
 import subprocess
@@ -31,33 +33,49 @@ urls = {
 # Função para extrair informações da página
 def extract_info(url):
     driver.get(url)
-    time.sleep(7)  # Esperar a página carregar completamente
+    time.sleep(5)  # Esperar a página carregar completamente
     
-    products = driver.find_elements(By.XPATH, "//div[@data-component-type='s-search-result']")
-    
-    # Extrair informações
     data = []
-    for product in products:
-        title = "N/A"
-        
-        # Tentativa de encontrar o título principal
+    while True:
         try:
-            title_span = product.find_element(By.CSS_SELECTOR, "span.a-size-base-plus.a-color-base.a-text-normal")
-            title = title_span.text.strip()
-        except:
-            pass
-        
-        # Tentativa de encontrar o título alternativo
-        if title == "N/A":
+            WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, "//div[@data-component-type='s-search-result']")))
+            products = driver.find_elements(By.XPATH, "//div[@data-component-type='s-search-result']")
+            
+            for product in products:
+                title = "N/A"
+                price = "N/A"
+                
+                try:
+                    title_span = product.find_element(By.CSS_SELECTOR, "span.a-size-base-plus.a-color-base.a-text-normal")
+                    title = title_span.text.strip()
+                except:
+                    try:
+                        title_span = product.find_element(By.CSS_SELECTOR, "span.a-truncate-cut")
+                        title = title_span.text.strip()
+                    except:
+                        pass
+                
+                try:
+                    price_whole = product.find_element(By.CSS_SELECTOR, "span.a-price-whole").text.strip()
+                    price_fraction = product.find_element(By.CSS_SELECTOR, "span.a-price-fraction").text.strip()
+                    price = f"{price_whole},{price_fraction}"
+                except:
+                    pass
+                
+                data.append({
+                    'title': title,
+                    'price': price
+                })
+            
+            # Tentar encontrar o botão "Próxima página" e clicar nele
             try:
-                title_span = product.find_element(By.CSS_SELECTOR, "span.a-truncate-cut")
-                title = title_span.text.strip()
+                next_button = driver.find_element(By.CSS_SELECTOR, "li.a-last a")
+                driver.execute_script("arguments[0].click();", next_button)
+                time.sleep(5)  # Esperar a próxima página carregar
             except:
-                pass
-        
-        data.append({
-            'title': title
-        })
+                break
+        except:
+            break
     
     return pd.DataFrame(data)
 

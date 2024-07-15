@@ -45,7 +45,7 @@
     },
     {
         "title": "Limpadora de Estofados Puzzi 4/15Classic 220V",
-        "price": "1.226,44"
+        "price": "1.226,45"
     },
     {
         "title": "Extratora de Sujeira WAP Aqua Cleaner (110, Volts)",
@@ -88,12 +88,12 @@
         "price": "4.450,90"
     },
     {
-        "title": "Aspirador de Pó, EAS30, Cinza e Preto, 110v, Electrolux",
-        "price": "574,00"
-    },
-    {
         "title": "Robô Aspirador de Pó Karcher RCV 3 com Mapeamento Inteligente, Aspira e Passa Pano. Controle via Aplicativo. Autonomia de 120 min. Navegação a Laser LiDAR e Sensor 360° - Bivolt",
         "price": "2.899,90"
+    },
+    {
+        "title": "WAP Removedor de Mofo e Bolor WAP LIMPA MOFO E BOLOR 500ML Limpeza preventiva com Fragrância de Capim Limão",
+        "price": "19,08"
     },
     {
         "title": "Extrator De Leite El�trico Fisher Price BB320",
@@ -224,19 +224,19 @@
         "price": "227,00"
     },
     {
-        "title": "Aspirador Vertical Electrolux 1300W com Fio PowerSpeed Plus STK14 220V, Denim Blue",
-        "price": "208,05"
-    },
-    {
-        "title": "Spray de Blindagem para Bolsas e Calçados",
-        "price": "197,00"
-    },
-    {
-        "title": "Aspirador de Pó Robô WAP ROBOT W100 Bivolt Automático 3 em 1 Varre Aspira e Passa Pano MOP para Limpeza",
-        "price": "498,12"
+        "title": "Aspirador de Pó Vertical 2 em 1 Karcher VCL 1 com Filtro Hepa 1000W",
+        "price": "199,89"
     },
     {
         "title": "Extrator de Conector POP-TOP Para Filtro de Combustível - Kitest",
         "price": "34,03"
+    },
+    {
+        "title": "Bocal para Extratora sem Gatilho Detailer",
+        "price": "29,90"
+    },
+    {
+        "title": "WAP Aspirador de Pó e Água Profissional 1600W 50 Litros 180 mbar Barril Aço Inox Soprador WAP GTW INOX 50 220V",
+        "price": "1.169,90"
     }
 ]

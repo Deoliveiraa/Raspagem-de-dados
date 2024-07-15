@@ -224,10 +224,6 @@
         "price": "369,00"
     },
     {
-        "title": "Churrasqueira Elétrica Com Pedestal Gourmet 127v 1800w Multi - GO133",
-        "price": "259,90"
-    },
-    {
         "title": "Ventilador Turbo de Mesa 40cm Preto 127V 130W - VL403",
         "price": "179,90"
     },
@@ -238,5 +234,9 @@
     {
         "title": "Fritadeira Airfryer Vintage Gadnic 3 Litros 110v",
         "price": "319,00"
+    },
+    {
+        "title": "Fritadeira Air Fryer Britânia BFR46PI 3,5L Display Analógico Preto e Inox 1500W",
+        "price": "394,00"
     }
 ]

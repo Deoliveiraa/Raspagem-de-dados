@@ -204,10 +204,6 @@
         "price": "N/A"
     },
     {
-        "title": "WAP Aspirador de Pó Portátil Bateria Lithium 7,4VDC Carregador USB e Filtro HEPA WAP Handson",
-        "price": "170,80"
-    },
-    {
         "title": "Aspirador de Pó Vertical WAP POWER SPEED 2000W 3L Potente 2 em 1 com Mangueira Extensora Flexível 220V",
         "price": "718,98"
     },
@@ -216,16 +212,16 @@
         "price": "1.899,00"
     },
     {
-        "title": "ZJMCAJY Aspirador de pó robô de limpeza de 1200 mAh, robô de varredura robótico recarregável, sucção forte, operação silenciosa, aspirador de pó inteligente multifuncional para limpeza diária de pelos",
-        "price": "79,90"
+        "title": "Electrolux, STK15 PowerSpeed Ultra - Aspirador Vertical com Fio, 127V, Urban Grey",
+        "price": "227,00"
+    },
+    {
+        "title": "Robô Aspirador de Pó Fast Clean Easy Mondial RB-08 ROBÔ ASPIRADOR DE PÓ RB-08 BIVOLT",
+        "price": "465,90"
     },
     {
         "title": "eufy Aspirador de pó robô Clean L60, sucção ultra forte de 5.000 Pa e navegação a laser iPath para limpeza profunda de pelos do chão",
         "price": "N/A"
-    },
-    {
-        "title": "Aspirador de Pó, EAS30, Cinza e Preto, 110v, Electrolux",
-        "price": "574,00"
     },
     {
         "title": "Robô Aspirador de Pó LILIN XR500, reconhecimento de obstáculos,110/220V Bivolt, 5000KPa, mapa de memória multicamada, limpeza personalizada, ajuste multilíngue, ultrafino e silencioso",
@@ -237,6 +233,10 @@
     },
     {
         "title": "Robô aspirador de pó LILIN C30B, exibição de mapa AI, Ele é bivolt recarrega 110/220v, controle de voz WiFi, sucção 5KPa, suporte Alexa e Google, aspirador de pó úmido e seco",
+        "price": "1.119,00"
+    },
+    {
+        "title": "LILIN C30B Robô aspirador de pó, exibição de mapa AI, Ele é bivolt recarrega 110/220v, controle de voz WiFi, sucção 5KPa, suporte Alexa e Google, tecnologia Power Boost, Do Brasil",
         "price": "1.119,00"
     }
 ]

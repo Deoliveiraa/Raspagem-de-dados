@@ -101,7 +101,7 @@
     },
     {
         "title": "Eliminador e Neutralizador de Odores PET 1L WAP ELIMINA ODORES, Branco e Verde",
-        "price": "57,01"
+        "price": "57,00"
     },
     {
         "title": "WAP Aspirador de Pó Portátil Bateria Lithium 7,4VDC Carregador USB e Filtro HEPA WAP Handson",
@@ -176,6 +176,10 @@
         "price": "439,41"
     },
     {
+        "title": "WAP Aspirador de Pó Vertical com Mangueira Flexível 2000W WAP LIFE SPEED 220V",
+        "price": "549,99"
+    },
+    {
         "title": "WAP Kit Irrigação Regulável com Aquastop e Trava de Fluxo Contínuo para Mangueira 1/2' GKIR01 -Amarelo, preto e cinza",
         "price": "39,90"
     },
@@ -202,10 +206,6 @@
     {
         "title": "Aspirador de Pó e Água WAP GTW INOX 20 1600W 20 Litros 160 mbar Barril Aço Inox com Soprador 220V",
         "price": "447,99"
-    },
-    {
-        "title": "WAP Aspirador de Pó Vertical com Mangueira Flexível 2000W WAP LIFE SPEED 127V",
-        "price": "629,00"
     },
     {
         "title": "WAP Aspirador de Pó e água Compacto GTW BAGLESS 1400W 6 Litros 160 mbar Soprador e Barril Portátil 220V",
@@ -236,7 +236,7 @@
         "price": "193,03"
     },
     {
-        "title": "Aspirador de Pó Robô Mondial, Pratic Clean, Bivolt, Cinza/Preto, 30W - RB-11",
-        "price": "379,90"
+        "title": "Aspirador de Pó Vertical Turbo Cycle, Mondial, Preto/Laranja, 1100W, 110V - AP-35",
+        "price": "174,90"
     }
 ]

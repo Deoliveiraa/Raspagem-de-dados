@@ -24,16 +24,16 @@
         "price": "399,90"
     },
     {
-        "title": "WAP COMBATE TURBO 2600 - Lavadora de Alta Pressão, Indução 1700W, 2100 PSI/Libras, 360L/h, Profissional, Semi Intensivo, 127V",
-        "price": "1.023,00"
-    },
-    {
         "title": "Lavadora de Alta pressão Kärcher Compacta 1500 PSI/Libras 1200W 300L/h com Aplicador de Detergente e Lança Regulável 127v",
         "price": "327,70"
     },
     {
         "title": "Lavadora de alta pressão Electrolux 1400W 1800PSI gratis engate rápido lava jato potente econômico preto e amarelo EWS30 127V",
         "price": "449,90"
+    },
+    {
+        "title": "WAP COMBATE TURBO 2600 - Lavadora de Alta Pressão, Indução 1700W, 2100 PSI/Libras, 360L/h, Profissional, Semi Intensivo, 127V",
+        "price": "1.023,00"
     },
     {
         "title": "Lavadora de Alta pressão Kärcher K2 Plus CAR 127V – 1740 psi",
@@ -60,6 +60,10 @@
         "price": "949,90"
     },
     {
+        "title": "Lavadora Alta Pressão Lava Jato Portátil Sem Fio Recarregável Bivolt 127V 220V Limpeza Casa Apartamento Lavagem Carro Moto Split Preta Com Matela",
+        "price": "126,65"
+    },
+    {
         "title": "Lavadora de Alta Pressão Electrolux 1450W 1800PSI Reservatorio Detergente Bico Turbo Bico Vario e Escova Rotativa Lava Jato Potente Econômico Preto EWS31 127V",
         "price": "459,00"
     },
@@ -70,10 +74,6 @@
     {
         "title": "Lavadora de alta pressão Electrolux 2200PSI 1800W gratis engate rapido reservatorio detergente shampoozeira bico trubo bico vario lava jato potente econômico preto UWS31 220V",
         "price": "659,00"
-    },
-    {
-        "title": "Lavadora Alta Pressão Lava Jato Portátil Sem Fio Recarregável Bivolt 127V 220V Limpeza Casa Apartamento Lavagem Carro Moto Split Preta Com Matela",
-        "price": "126,65"
     },
     {
         "title": "Lavadora de Alta Pressão WAP ÁGIL 1800 1400W 1300 PSI/Libras 300L/h Portátil Compacta Jato Leque e Concentrado 220V",
@@ -100,16 +100,16 @@
         "price": "549,99"
     },
     {
+        "title": "Kärcher K3 Force CAR - Lavadora de Alta pressão, 127V, 1815 psi",
+        "price": "664,90"
+    },
+    {
         "title": "Lavadora Alta Pressao 1600 lbf/pol Lav1600 127v Vonder",
         "price": "454,73"
     },
     {
         "title": "Lavadora Alta Pressão 2200w Wap 4100 220v",
         "price": "1.892,90"
-    },
-    {
-        "title": "Kärcher K3 Force CAR - Lavadora de Alta pressão, 127V, 1815 psi",
-        "price": "664,90"
     },
     {
         "title": "Vonder, Lavadora de Alta Pressão LAV 1300, 1.300 lbf/pol², 220 V~.",
@@ -136,12 +136,12 @@
         "price": "2.459,00"
     },
     {
-        "title": "Lavadora de Alta pressão Kärcher - K2 Plus TURBO - 1740 psi",
-        "price": "440,34"
-    },
-    {
         "title": "WAP Lavadora de Alta Pressão WL 2660 Turbo 1800W com Aplicador de Detergente e Mangueira Desobstruidora 220V",
         "price": "1.099,98"
+    },
+    {
+        "title": "Lavadora de Alta pressão Kärcher - K2 Plus TURBO - 1740 psi",
+        "price": "440,34"
     },
     {
         "title": "Tramontina, Lavadora de Alta Pressão, 1200W, 127v",
@@ -152,28 +152,28 @@
         "price": "1.240,20"
     },
     {
-        "title": "Lavadora de Alta Pressão Bosch GHP 200 2000 PSI 1700W 220V",
-        "price": "1.068,00"
+        "title": "Lavadora de Alta Pressão Wap Premium 2600 127v",
+        "price": "1.239,95"
     },
     {
         "title": "Lavadora de Alta Pressão Eos Max Pro 1500psi 1400w Elp2500 220v",
         "price": "336,31"
     },
     {
-        "title": "Lavadora de Alta Pressão Wap Premium 2600 127v",
-        "price": "1.239,95"
+        "title": "WAP Lavadora de Alta Pressão WL 2660 Turbo 1800W com Aplicador de Detergente e Mangueira Desobstruidora 127V",
+        "price": "943,80"
     },
     {
         "title": "Kärcher K 3.98 - Lavadora de Alta Pressão, 127v, Motor a Indução",
         "price": "999,00"
     },
     {
-        "title": "WAP Lavadora de Alta Pressão WL 2660 Turbo 1800W com Aplicador de Detergente e Mangueira Desobstruidora 127V",
-        "price": "943,80"
+        "title": "Lavadora de Alta Pressão Bosch GHP 200 2000 PSI 1700W 220V",
+        "price": "1.068,00"
     },
     {
         "title": "Lavadora de Alta Pressão Bosch GHP 180 1800 PSI 1500W 220V",
-        "price": "804,30"
+        "price": "804,31"
     },
     {
         "title": "Lavadora de Alta Pressão Portátil 1000w C/ 2 Baterias 36v Sem Fio",

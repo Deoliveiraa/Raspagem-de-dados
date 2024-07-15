@@ -144,12 +144,12 @@
         "price": "229,90"
     },
     {
-        "title": "WAP Fritadeira Elétrica Air Fryer Oven Digital 12 Litros Sem Óleo 10 Funções e Timer de 24h Aviso Sonoro 1800W Antiaderente WAP AIRFRY 12L 220V",
-        "price": "699,00"
-    },
-    {
         "title": "Fritadeira sem Óleo Cadence Pratic Fryer, 3L, Preta, 110V, FRT515",
         "price": "253,52"
+    },
+    {
+        "title": "WAP Fritadeira Elétrica Air Fryer Oven Digital 12 Litros Sem Óleo 10 Funções e Timer de 24h Aviso Sonoro 1800W Antiaderente WAP AIRFRY 12L 220V",
+        "price": "699,00"
     },
     {
         "title": "Fritadeira Elétrica sem oleo Electrolux Airfryer 3,2L 8 receitas pré-sugeridas desligamento automático timer sonoro 1400W EAF11 branca 127v por Rita Lobo",
@@ -164,6 +164,10 @@
         "price": "698,00"
     },
     {
+        "title": "Fritadeira Mallory Air Fryer Digital Premium 5,5Litros - Painel 100% Digital - 1500W de Potência - 127V",
+        "price": "309,00"
+    },
+    {
         "title": "Fritadeira Elétrica Start Fry Elgin 3,5 Litros Preta 220v - Air Fryer",
         "price": "231,00"
     },
@@ -172,16 +176,12 @@
         "price": "333,59"
     },
     {
-        "title": "Fritadeira Elétrica sem oleo Grand Airfryer 5L mecanica Electrolux EAF50 grafite 1800W 127v",
-        "price": "469,00"
+        "title": "Fritadeira Elétrica Grand Airfryer 4L Electrolux EAF30 Grafite 110V",
+        "price": "379,90"
     },
     {
         "title": "Fritadeira Forno Oven Fry 4 em 1 Elgin 12 Litros 220V - Assa, Frita sem óleo, Desidrata e Reaquece - Airfryer",
         "price": "637,18"
-    },
-    {
-        "title": "Fritadeira Elétrica Grand Airfryer 4L Electrolux EAF30 Grafite 110V",
-        "price": "379,90"
     },
     {
         "title": "Fritadeira Sem Óleo Capacidade de 4L, Midea, 1400 W, Aquece Em 10-60 min 80℃ a 200 ℃, Air Fryer Com Fluxo de Ar de 360°, Fritadeira Eletrica, Design Compacto, Preto, 220V, MAF400P0APK",
@@ -196,6 +196,10 @@
         "price": "339,90"
     },
     {
+        "title": "Fritadeira Elétrica sem oleo Forno Oven Airfryer 12L digital receita programada 2 bandejas espeto giratório 1700W Electrolux EAF91 Vinho 127v por Rita Lobo",
+        "price": "789,00"
+    },
+    {
         "title": "Fritadeira Elétrica sem oleo Electrolux Airfryer 3,2L 8 receitas pré-sugeridas desligamento automático timer sonoro 1400W EAF11 branca 220v por Rita Lobo",
         "price": "299,00"
     },
@@ -208,8 +212,8 @@
         "price": "399,00"
     },
     {
-        "title": "Fritadeira Elétrica sem oleo Forno Oven Airfryer 12L digital receita programada 2 bandejas espeto giratório 1700W Electrolux EAF91 Vinho 127v por Rita Lobo",
-        "price": "789,00"
+        "title": "Fritadeira Elétrica sem oleo Grand Airfryer 5L mecanica Electrolux EAF50 grafite 1800W 127v",
+        "price": "469,00"
     },
     {
         "title": "WAP Fritadeira Elétrica Air Fryer 7,1 Litros Cesto e Grelha Removíveis 1500W com Duplo Revestimento Antiaderente e Aviso Sonoro, Assa, Gratina e Frita WAP AIRFRY Mega Family 127V",
@@ -218,10 +222,6 @@
     {
         "title": "Fritadeira Elétrica Quick Fryer Elgin 4 Litros Preta com cesta removível 220V - Airfryer",
         "price": "279,99"
-    },
-    {
-        "title": "Fritadeira Airfryer Série 3000, Philips Walita, com 4.1L de capacidade, Preta, 1400W, 110v, RI9201/91",
-        "price": "369,00"
     },
     {
         "title": "Ventilador Turbo de Mesa 40cm Preto 127V 130W - VL403",

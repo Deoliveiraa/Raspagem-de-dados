@@ -37,7 +37,10 @@ def extract_info(url):
     
     # Extrair informações
     data = []
-    for product in products:
+    for i, product in enumerate(products):
+        if i >= 15:  # Limitar para no máximo 15 itens
+            break
+            
         title = "N/A"
         
         # Tentativa de encontrar o título principal

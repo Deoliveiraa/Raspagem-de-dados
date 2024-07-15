@@ -96,12 +96,12 @@
         "price": "29.900,00"
     },
     {
-        "title": "Lavadora Alta Pressao 1600 lbf/pol Lav1600 127v Vonder",
-        "price": "454,73"
-    },
-    {
         "title": "WAP Lavadora de Alta Pressão WL1820 Potência de 1400W e 1500 PSI com Agulha Desobstruidora Bico Ajustável Porta Acessórios 127V",
         "price": "549,99"
+    },
+    {
+        "title": "Lavadora Alta Pressao 1600 lbf/pol Lav1600 127v Vonder",
+        "price": "454,73"
     },
     {
         "title": "Lavadora Alta Pressão 2200w Wap 4100 220v",
@@ -121,7 +121,7 @@
     },
     {
         "title": "Kala Lavadora de Alta Pressão com Lança Ajustável 1200W 220V",
-        "price": "349,00"
+        "price": "329,99"
     },
     {
         "title": "WAP Lavadora de Alta Pressão WL 4000 Limpeza Profissional 2000W, Bico Regulável, com Economia de Água 220V",
@@ -189,7 +189,7 @@
     },
     {
         "title": "Kala Lavadora de Alta Pressão com Lança Ajustável 1200W 127V",
-        "price": "348,99"
+        "price": "329,99"
     },
     {
         "title": "Lavadora Alta Pressão Britânia BLA2400 1500 PSI 1200W 220V",

@@ -4,16 +4,16 @@
         "price": "498,12"
     },
     {
-        "title": "WAP COMBATE TURBO 2600 - Lavadora de Alta Pressão, Indução 1700W, 2100 PSI/Libras, 360L/h, Profissional, Semi Intensivo, 127V",
-        "price": "1.023,00"
-    },
-    {
         "title": "Extratora e Higienizadora Vertical WAP COMFORT CLEANER PRO 2000W 2 em 1 Escova Elétrica Tapetes e Carpetes 127V",
         "price": "1.023,21"
     },
     {
-        "title": "Lavadora de Alta Pressão WAP OUSADA PLUS 2200 1500W 1750 PSI/Libras 342L/h Jato Leque e Concentrado Máquina Voltagem 127 V",
-        "price": "436,00"
+        "title": "WAP COMBATE TURBO 2600 - Lavadora de Alta Pressão, Indução 1700W, 2100 PSI/Libras, 360L/h, Profissional, Semi Intensivo, 127V",
+        "price": "1.023,00"
+    },
+    {
+        "title": "Extratora Profissional 25 Litros 1600W WAP CARPET CLEANER 220V, Amarelo com Preto",
+        "price": "1.952,90"
     },
     {
         "title": "WAP Spot Cleaner 3 em 1 - Extratora e Higienizadora Portátil, Borrifa, Esfrega e Extrai, 1600W, 127V",
@@ -84,16 +84,16 @@
         "price": "289,00"
     },
     {
+        "title": "Lavadora Alta Pressão Wap Ágil 1400w 127v",
+        "price": "419,99"
+    },
+    {
+        "title": "Lavadora de Alta Pressão WAP OUSADA PLUS 2200 1500W 1750 PSI/Libras 342L/h Jato Leque e Concentrado Máquina Voltagem 127 V",
+        "price": "436,00"
+    },
+    {
         "title": "Robô Aspirador de Pó Karcher RCV 1 controle remoto 3 modos de limpeza sensor anti-queda e de colisão – Bivolt",
         "price": "928,90"
-    },
-    {
-        "title": "Robô Aspirador de Pó Karcher RCV 3 com Mapeamento Inteligente, Aspira e Passa Pano. Controle via Aplicativo. Autonomia de 120 min. Navegação a Laser LiDAR e Sensor 360° - Bivolt",
-        "price": "2.899,90"
-    },
-    {
-        "title": "WAP Detergente Concentrado para Limpeza Pesada de Pisos 1 LITRO WAP LIMPE PRO, Branco e amarelo",
-        "price": "45,18"
     },
     {
         "title": "WAP WAPORE UP - Extratora e Higienizadora com Vapor e MOP, Aspirador de Pó Vertical, 1600W, Passa Pano, Limpa e dá Brilho, 127V, Branco, Titanium e Azul",
@@ -101,7 +101,7 @@
     },
     {
         "title": "Eliminador e Neutralizador de Odores PET 1L WAP ELIMINA ODORES, Branco e Verde",
-        "price": "56,94"
+        "price": "56,92"
     },
     {
         "title": "WAP Aspirador de Pó Portátil Bateria Lithium 7,4VDC Carregador USB e Filtro HEPA WAP Handson",
@@ -224,6 +224,10 @@
         "price": "138,20"
     },
     {
+        "title": "Robô Aspirador de Pó Karcher RCV 3 com Mapeamento Inteligente, Aspira e Passa Pano. Controle via Aplicativo. Autonomia de 120 min. Navegação a Laser LiDAR e Sensor 360° - Bivolt",
+        "price": "2.899,90"
+    },
+    {
         "title": "Robô Aspirador de Pó LILIN XR500, reconhecimento de obstáculos,110/220V Bivolt, 5000KPa, mapa de memória multicamada, limpeza personalizada, ajuste multilíngue, ultrafino e silencioso",
         "price": "1.799,00"
     },
@@ -234,9 +238,5 @@
     {
         "title": "WAP Aspirador de Pó Vertical e Portátil 1350W 1,2L com Filtro HEPA e Tecnologia Cyclone HIGH SPEED PLUS 3 em 1 220V",
         "price": "193,03"
-    },
-    {
-        "title": "Spray de Blindagem para Bolsas e Calçados",
-        "price": "197,00"
     }
 ]

@@ -1,9 +1,5 @@
 [
     {
-        "title": "Parafusadeira Philco PPF01 W 4.8V Preto/Azul",
-        "price": "89,90"
-    },
-    {
         "title": "Pró Euro Parafusadeira Furadeira 18v 10mm Bivolt + Maleta e Acessórios",
         "price": "332,10"
     },
@@ -14,6 +10,10 @@
     {
         "title": "WAP Parafusadeira e Furadeira de Impacto 21V 3/8\" 45Nm 21 Níveis de Torque Bateria Li-Íon 1500 mAh 2 Velocidades Compacto e com Maleta WAP K21 ID01",
         "price": "419,99"
+    },
+    {
+        "title": "Parafusadeira E Furadeira Impacto Profissional Bateria Li-Ion 24V Sem Fio Com 2 Baterias Carregador Bivolt Maleta E Kit De 23 Acessórios Premium",
+        "price": "299,00"
     },
     {
         "title": "WAP Parafusadeira E Furadeira A Bateria Li-Ion 12V Bpf 12K3 Carregador Bivolt Sem Fio Com Maleta E Kit De 13 Acessórios",
@@ -84,16 +84,16 @@
         "price": "32,90"
     },
     {
-        "title": "Stanley Parafusadeira e Furadeira de Impacto 10mm, Sem Fio com Maleta de Ferramentas, 20 Posições de Torque, 2 Baterias 12V 1,5Ah, 1 Carregador Bivolt, Modelo SCH121S2K-BR",
-        "price": "566,91"
-    },
-    {
         "title": "Scotch, 3M, Fixa Forte, Fita Dupla Face, Transparente, 24mm x 2m",
         "price": "32,45"
     },
     {
         "title": "Scotch, 3M, Fixa Forte, Fita Dupla Face, Transparente, 19mm x 2m",
         "price": "27,81"
+    },
+    {
+        "title": "Scotch, 3M, Fixa Forte, Fita Dupla Face, Transparente, 12mm x 2m",
+        "price": "17,99"
     },
     {
         "title": "Black Decker Furadeira e Parafusadeira VRR com 2 velocidades, Furadeira de Impacto 360 RPM a 1.400 RPM, 110V, Modelo BCD704C1, 20V",
@@ -224,19 +224,19 @@
         "price": "555,40"
     },
     {
-        "title": "Parafusadeira E Furadeira Impacto Profissional Bateria Li-Ion 24V Sem Fio Com 2 Baterias Carregador Bivolt Maleta E Kit De 23 Acessórios Premium",
-        "price": "299,00"
-    },
-    {
-        "title": "Scotch, 3M, Fixa Forte, Fita Dupla Face, Transparente, 12mm x 2m",
-        "price": "17,99"
-    },
-    {
         "title": "Scotch, 3M, Fixa Forte, Fita Dupla Face, Fixação Extrema, 12mm x 2m",
         "price": "33,81"
     },
     {
         "title": "Kit Jogo de Ferramentas Maleta 129 peças Caixa de Ferramentas Completa Marca GP Lumos",
         "price": "114,90"
+    },
+    {
+        "title": "WAP Parafusadeira E Furadeira Com Impacto Bpfi 12K4 A Bateria Li-Íon De 12V Torque 18 Níveis Sem Fio Maleta E Kit De 13 Acessórios Bivolt",
+        "price": "229,98"
+    },
+    {
+        "title": "Kit Chave De Impacto Parafusadeira e Furadeira + Jogo Soquete 46pç",
+        "price": "550,00"
     }
 ]

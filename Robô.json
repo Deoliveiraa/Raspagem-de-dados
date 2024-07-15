@@ -80,6 +80,10 @@
         "price": "1.399,00"
     },
     {
+        "title": "Oral-B PRO Series 2: Escova de dentes elétrica com cabo recarregável, timer, 2 modos de escovação e 1 cabeça.",
+        "price": "247,49"
+    },
+    {
         "title": "Aspirador de Pó Vertical 2 em 1 Karcher VCL 1 com Filtro Hepa 1000W",
         "price": "199,89"
     },
@@ -90,10 +94,6 @@
     {
         "title": "Robô Aspirador de Pó LILIN XR500, reconhecimento de obstáculos,110/220V Bivolt, 5000KPa, mapa de memória multicamada, limpeza personalizada, ajuste multilíngue, ultrafino e silencioso",
         "price": "1.799,00"
-    },
-    {
-        "title": "Karcher Aspirador de Pó Vertical 2 em 1 VCL 3 BATERIA, Cor: Branco",
-        "price": "399,00"
     },
     {
         "title": "Robô Aspirador de Pó Liectroux XR500 Aspira e Passa Pano Voz em Português Automático Inteligente Armazena Vários Mapas Bivolt Volta a Carregar Sozinho Compatível com Alexa (Preto)",
@@ -228,15 +228,15 @@
         "price": "447,99"
     },
     {
+        "title": "Karcher Aspirador de Pó Vertical 2 em 1 VCL 3 BATERIA, Cor: Branco",
+        "price": "399,00"
+    },
+    {
         "title": "Robô aspirador de pó LILIN C30B, exibição de mapa AI, Ele é bivolt recarrega 110/220v, controle de voz WiFi, sucção 5KPa, suporte Alexa e Google, aspirador de pó úmido e seco",
         "price": "1.119,00"
     },
     {
         "title": "LILIN C30B Robô aspirador de pó, exibição de mapa AI, Ele é bivolt recarrega 110/220v, controle de voz WiFi, sucção 5KPa, suporte Alexa e Google, tecnologia Power Boost, Do Brasil",
         "price": "1.119,00"
-    },
-    {
-        "title": "LILIN XR500 Aspirador de pó robô.110/220V .com depósito de água e aspirador de esfregona.Mapa de memória multicamada.Planeamento de áreas.Pacote de idiomas ajustável.Compatível com Alexa.No Brasil",
-        "price": "1.649,00"
     }
 ]

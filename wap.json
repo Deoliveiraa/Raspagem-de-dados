@@ -21,13 +21,13 @@
         "title": "WAP ROBOT W90 - Aspirador de Pó Robô, Automático 3 em 1 Varre, Aspira, Passa Pano, MOP para Limpeza, 30W, Bateria Recarregável, Bivolt, Preto"
     },
     {
-        "title": "Extratora e Higienizadora Vertical WAP COMFORT CLEANER PRO 2000W 2 em 1 Escova Elétrica Tapetes e Carpetes 127V"
-    },
-    {
         "title": "WAP Detergente Limpador Para Extratoras Limpa E Extrai 5L Com Fragrância E Sem Espuma Branco E Azul"
     },
     {
         "title": "WAP Parafusadeira E Furadeira A Bateria Li-Ion 12V Bpf 12K3 Carregador Bivolt Sem Fio Com Maleta E Kit De 13 Acessórios"
+    },
+    {
+        "title": "Extratora e Higienizadora Vertical WAP COMFORT CLEANER PRO 2000W 2 em 1 Escova Elétrica Tapetes e Carpetes 127V"
     },
     {
         "title": "Aspirador de Pó Vertical WAP POWER SPEED 2000W 3L Potente 2 em 1 com Mangueira Extensora Flexível 127V"
@@ -48,13 +48,13 @@
         "title": "Aspirador de Pó Robô WAP ROBOT W100 Bivolt Automático 3 em 1 Varre Aspira e Passa Pano MOP para Limpeza"
     },
     {
-        "title": "Lavadora de Alta Pressão WAP LÍDER 2200 1750W 1800 PSI/Libras 360L/h Jato Leque e Concentrado Máquina 127V"
+        "title": "WAP WAPORE UP - Extratora e Higienizadora com Vapor e MOP, Aspirador de Pó Vertical, 1600W, Passa Pano, Limpa e dá Brilho, 127V, Branco, Titanium e Azul"
     },
     {
         "title": "Aspirador de Pó Wap Antiacaro Mite Cleaner Uv 127v"
     },
     {
-        "title": "WAP WAPORE UP - Extratora e Higienizadora com Vapor e MOP, Aspirador de Pó Vertical, 1600W, Passa Pano, Limpa e dá Brilho, 127V, Branco, Titanium e Azul"
+        "title": "Lavadora de Alta Pressão WAP LÍDER 2200 1750W 1800 PSI/Libras 360L/h Jato Leque e Concentrado Máquina 127V"
     },
     {
         "title": "WAP Fritadeira Elétrica Air Fryer Barbecue Digital 12 em 1 com 4 Níveis de Temperatura e Painel Digital Antiaderente 1700W WAP AIRFRY 10L 127V"
@@ -81,10 +81,16 @@
         "title": "WAP Aspirador de Pó Portátil Bateria Lithium 7,4VDC Carregador USB e Filtro HEPA WAP Handson"
     },
     {
+        "title": "WAP Removedor de Mofo e Bolor WAP LIMPA MOFO E BOLOR 500ML Limpeza preventiva com Fragrância de Capim Limão"
+    },
+    {
         "title": "WAP Umidificador de Ar Ultrassônico 2,3 Litros com Luminária e Aromatizador de Ambientes WAP AIR FLOW U2 Bivolt"
     },
     {
         "title": "Vaporizador Portátil e Higienizador de Roupas e Tecidos WAP WAPORE FAST 1250W Vapor Quente Contínuo 160°C com Escova 127V"
+    },
+    {
+        "title": "WAP Fritadeira Elétrica Air Fryer Oven Digital 12 Litros Sem Óleo 10 Funções e Timer de 24h Aviso Sonoro 1800W Antiaderente WAP AIRFRY 12L 220V"
     },
     {
         "title": "WAP Robô Aspirador de Pó com Controle Remoto e MOP Varre Passa Pano Agenda Limpeza e Autorrecarga ROBOT W400 Bivolt"
@@ -93,22 +99,16 @@
         "title": "WAP Limpador De Porcelanatos Pisos E Superfícies Limpa Pisos 1 Litro Branco E Azul"
     },
     {
-        "title": "WAP Removedor de Mofo e Bolor WAP LIMPA MOFO E BOLOR 500ML Limpeza preventiva com Fragrância de Capim Limão"
-    },
-    {
-        "title": "WAP Fritadeira Elétrica Air Fryer Oven Digital 12 Litros Sem Óleo 10 Funções e Timer de 24h Aviso Sonoro 1800W Antiaderente WAP AIRFRY 12L 220V"
-    },
-    {
         "title": "WAP FLOW TURBO Ventilador 2 em 1 Mesa e Parede 180W 50 cm 8 Pás Potente Silencioso e Econômico com 3 Velocidades 127V"
-    },
-    {
-        "title": "Polidora e Limpadora de Piso Elétrica 3 em 1 WAP BRILHA UP com Pads Escovas para Polir Limpar Esfregar e dar Brilho 127V, Azul com Prata"
     },
     {
         "title": "WAP Vassoura MOP Spray com Reservatório 460 ml Multiuso 3 em 1 Borrifa Limpa e Seca com Pano Microfibra Refil"
     },
     {
         "title": "WAP AIR SILENCE Ventilador de Torre Vertical Silencioso com Controle Remoto 4 Velocidades 70W 127V"
+    },
+    {
+        "title": "Polidora e Limpadora de Piso Elétrica 3 em 1 WAP BRILHA UP com Pads Escovas para Polir Limpar Esfregar e dar Brilho 127V, Azul com Prata"
     },
     {
         "title": "WAP MOP Balde Multiuso Duplo Compacto Lava e Seca 8 Litros Flat com Refil de Microfibra"
@@ -153,10 +153,10 @@
         "title": "WAP Removedor De Manchas De Tecidos E Estofados Remove Manchas 500Ml Branco E Rosa"
     },
     {
-        "title": "Aspirador de Pó e Água WAP GTW INOX 20 1600W 20 Litros 160 mbar Barril Aço Inox com Soprador 220V"
+        "title": "WAP Aspirador de Pó e água Compacto GTW BAGLESS 1400W 6 Litros 160 mbar Soprador e Barril Portátil 220V"
     },
     {
-        "title": "WAP Aspirador de Pó e água Compacto GTW BAGLESS 1400W 6 Litros 160 mbar Soprador e Barril Portátil 220V"
+        "title": "Aspirador de Pó e Água WAP GTW INOX 20 1600W 20 Litros 160 mbar Barril Aço Inox com Soprador 220V"
     },
     {
         "title": "WAP FLOW TURBO Ventilador de Coluna 180W 50 cm 8 Pás Silencioso e Econômico com Tecnologia Silent Flow 127V"

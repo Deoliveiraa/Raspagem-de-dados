@@ -64,12 +64,12 @@
         "price": "498,12"
     },
     {
-        "title": "Aspirador de Pó Wap Antiacaro Mite Cleaner Uv 127v",
-        "price": "609,90"
-    },
-    {
         "title": "Lavadora de Alta Pressão WAP LÍDER 2200 1750W 1800 PSI/Libras 360L/h Jato Leque e Concentrado Máquina 127V",
         "price": "719,90"
+    },
+    {
+        "title": "Aspirador de Pó Wap Antiacaro Mite Cleaner Uv 127v",
+        "price": "609,90"
     },
     {
         "title": "WAP WAPORE UP - Extratora e Higienizadora com Vapor e MOP, Aspirador de Pó Vertical, 1600W, Passa Pano, Limpa e dá Brilho, 127V, Branco, Titanium e Azul",
@@ -85,7 +85,7 @@
     },
     {
         "title": "Lavadora Alta Pressão Wap Ágil 1400w 127v",
-        "price": "439,90"
+        "price": "419,99"
     },
     {
         "title": "Robô Aspirador de Pó Karcher RCV 1 controle remoto 3 modos de limpeza sensor anti-queda e de colisão – Bivolt",
@@ -101,7 +101,7 @@
     },
     {
         "title": "Eliminador e Neutralizador de Odores PET 1L WAP ELIMINA ODORES, Branco e Verde",
-        "price": "56,82"
+        "price": "56,78"
     },
     {
         "title": "WAP Aspirador de Pó Portátil Bateria Lithium 7,4VDC Carregador USB e Filtro HEPA WAP Handson",
@@ -156,10 +156,6 @@
         "price": "1.479,00"
     },
     {
-        "title": "Lavadora de Alta Pressão Profissional WAP 5100 TURBO 2500W 2300 PSI/Libras 550L/h Lava Rápido Motor Indução 220V",
-        "price": "2.459,00"
-    },
-    {
         "title": "WAP Parafusadeira E Furadeira Com Impacto Bpfi 12K4 A Bateria Li-Íon De 12V Torque 18 Níveis Sem Fio Maleta E Kit De 13 Acessórios Bivolt",
         "price": "229,98"
     },
@@ -173,7 +169,7 @@
     },
     {
         "title": "Lavadora Alta Pressão Wap Ágil 1400w 127v",
-        "price": "439,90"
+        "price": "419,99"
     },
     {
         "title": "WAP Aspirador de Pó Sem Fio MAGIC Vertical e Portátil Multifunções 3 Ní­veis de Velocidade com Alto Poder de Sucção 450W 220 mbar Luz UVC Antiácaro Bateria Bivolt",
@@ -182,6 +178,10 @@
     {
         "title": "WAP Aspirador de Pó Vertical com Mangueira Flexível 2000W WAP LIFE SPEED 220V",
         "price": "549,99"
+    },
+    {
+        "title": "Lavadora de Alta Pressão Profissional WAP 5100 TURBO 2500W 2300 PSI/Libras 550L/h Lava Rápido Motor Indução 220V",
+        "price": "2.459,00"
     },
     {
         "title": "WAP Kit Irrigação Regulável com Aquastop e Trava de Fluxo Contínuo para Mangueira 1/2' GKIR01 -Amarelo, preto e cinza",
@@ -220,8 +220,8 @@
         "price": "449,90"
     },
     {
-        "title": "WAP Torradeira Elétrica WTE1 Inox com 7 Níveis de Tostagem Desligamento Automático Descongela e Reaquece 900W 127V",
-        "price": "177,02"
+        "title": "Wap Maleta De Ferramentas Manuais Wap Mkf132 Kit Completo Com 132 Peças E Uma Maleta Organizadora",
+        "price": "138,20"
     },
     {
         "title": "Robô Aspirador de Pó LILIN XR500, reconhecimento de obstáculos,110/220V Bivolt, 5000KPa, mapa de memória multicamada, limpeza personalizada, ajuste multilíngue, ultrafino e silencioso",

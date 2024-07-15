@@ -1,5 +1,9 @@
 [
     {
+        "title": "Vonder, Parafusadeira/Furadeira Bateria 20V PFV020 Com 18 Posições de Torque e Fonte Bivolt Automático - 60.01.020.000",
+        "price": "556,15"
+    },
+    {
         "title": "Black Decker Parafusadeira a Bateria Íon Lítio 4V, com Torque Potênte, Modelo BD40K4, Bivolt",
         "price": "164,33"
     },
@@ -10,10 +14,6 @@
     {
         "title": "Combo Parafusadeira/Furadeira e Chave de Impacto 12V WS1000K2 Wesco",
         "price": "797,90"
-    },
-    {
-        "title": "Black Decker Furadeira de Impacto 10mm, Ferramenta Ideal para Trabalhos Pesados, Potência 560W, Modelo TM500, 110V",
-        "price": "162,32"
     },
     {
         "title": "WAP Parafusadeira E Furadeira A Bateria Li-Ion 12V Bpf 12K3 Carregador Bivolt Sem Fio Com Maleta E Kit De 13 Acessórios",
@@ -84,16 +84,16 @@
         "price": "1.599,00"
     },
     {
+        "title": "Black Decker Furadeira de Impacto 10mm, Ferramenta Ideal para Trabalhos Pesados, Potência 560W, Modelo TM500, 110V",
+        "price": "162,32"
+    },
+    {
         "title": "Black Decker Furadeira, Sem Fio, Max Matrix, 6 Cabeçotes Intercabiáveis, Modelo MTX20K6A, 220v",
         "price": "1.324,03"
     },
     {
         "title": "Black Decker Furadeira de Impacto 10mm, Ferramenta Ideal para Trabalhos Pesados, Potência 560W, Com Maleta de Ferramentas e 9 Brocas, Modelo TM500KB9BR, 110V",
         "price": "238,91"
-    },
-    {
-        "title": "Black Decker Furadeira e Parafusadeira 3/8 Pol Bateria, com 13 Acessórios e Caixa Transparente, Modelo LD12SP, Bivolt",
-        "price": "253,88"
     },
     {
         "title": "Black Decker Furadeira e Parafusadeira VRR com 2 velocidades, Furadeira de Impacto 360 RPM a 1.400 RPM, 110V, Modelo BCD704C1, 20V",
@@ -216,12 +216,16 @@
         "price": "698,58"
     },
     {
+        "title": "Vonder, Parafusadeira/Furadeira Bateria 20V PFV020 Com 18 Posições de Torque e Fonte Bivolt Automático - 60.01.020.000",
+        "price": "556,15"
+    },
+    {
         "title": "Black Decker Furadeira e Parafusadeira Sem, Parafusadeira com Luz de Led, Potência e Versatilidade, Modelo CD702C1, 20V",
         "price": "439,00"
     },
     {
-        "title": "Furadeira de Impacto Bosch GSB 450 RE 450W 127V",
-        "price": "239,90"
+        "title": "Black Decker Furadeira e Parafusadeira 3/8 Pol Bateria, com 13 Acessórios e Caixa Transparente, Modelo LD12SP, Bivolt",
+        "price": "253,88"
     },
     {
         "title": "Black Decker Furadeira e Parafusadeira 3/8 Pol Bateria 12V, com 31 Acessórios e Maleta, Modelo LD12SC, Bivolt",
@@ -230,10 +234,6 @@
     {
         "title": "BLACK+DECKER Parafusadeira e Furadeira de 3/8 Pol. (10mm) a Bateria 8V Ion-Litio 1.5Ah 550 RPM com Carregador Bivolt 110V LD008",
         "price": "233,15"
-    },
-    {
-        "title": "Stanley Parafusadeira e Furadeira de Impacto 10mm, Sem Fio com Maleta de Ferramentas, 20 Posições de Torque, 2 Baterias 12V 1,5Ah, 1 Carregador Bivolt, Modelo SCH121S2K-BR",
-        "price": "566,91"
     },
     {
         "title": "BLACK+DECKER Soprador Térmico 1500W com Ajuste de Calor 110V HG1500",

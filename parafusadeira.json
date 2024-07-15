@@ -1,8 +1,5 @@
 [
     {
-        "title": "Parafusadeira Philco PPF01 W 4.8V Preto/Azul"
-    },
-    {
         "title": "Black Decker Parafusadeira a Bateria Íon Lítio 4V, com Torque Potênte, Modelo BD40K4, Bivolt"
     },
     {
@@ -10,6 +7,9 @@
     },
     {
         "title": "Combo Parafusadeira/Furadeira e Chave de Impacto 12V WS1000K2 Wesco"
+    },
+    {
+        "title": "Black Decker Furadeira de Impacto 10mm, Ferramenta Ideal para Trabalhos Pesados, Potência 560W, Modelo TM500, 110V"
     },
     {
         "title": "WAP Parafusadeira E Furadeira A Bateria Li-Ion 12V Bpf 12K3 Carregador Bivolt Sem Fio Com Maleta E Kit De 13 Acessórios"
@@ -48,22 +48,19 @@
         "title": "Bosch Parafusadeira E Furadeira Gsr 7-14 E 400W 127V Com Cabo De 4M"
     },
     {
+        "title": "Parafusadeira a Bateria Bosch Go 3,6V BIVOLT com 2 bits"
+    },
+    {
         "title": "Parafusadeira E Furadeira A Bateria Li-Ion 24V Sem Fio Com 2 Baterias Carregador Bivolt Maleta E Kit De 23 Acessórios"
     },
     {
         "title": "Black Decker Parafusadeira a Bateria Íon Lítio 4V, com Torque Potênte, Modelo BD40K4, Bivolt"
     },
     {
-        "title": "Parafusadeira a Bateria Bosch Go 3,6V BIVOLT com 2 bits"
-    },
-    {
-        "title": "Bosch Parafusadeira Furadeira Gsr 120-Li 12V 1 Bateria E Maleta - Azul"
+        "title": "Black Decker Furadeira e Parafusadeira VRR com 2 velocidades, Furadeira de Impacto 360 RPM a 1.400 RPM, 110V, Modelo BCD704C1, 20V"
     },
     {
         "title": "Stanley Chave de Impacto 1/2\" Sem Fio Com Maleta de Ferramentas, Ferramenta Profissional 2 Velocidades, 2 Baterias, 1 Carregador, Modelo SBW920M2K, 20V"
-    },
-    {
-        "title": "Black Decker Furadeira de Impacto 10mm, Ferramenta Ideal para Trabalhos Pesados, Potência 560W, Modelo TM500, 110V"
     },
     {
         "title": "Black Decker Furadeira, Sem Fio, Max Matrix, 6 Cabeçotes Intercabiáveis, Modelo MTX20K6A, 220v"
@@ -72,13 +69,13 @@
         "title": "Black Decker Furadeira de Impacto 10mm, Ferramenta Ideal para Trabalhos Pesados, Potência 560W, Com Maleta de Ferramentas e 9 Brocas, Modelo TM500KB9BR, 110V"
     },
     {
-        "title": "Black Decker Furadeira e Parafusadeira VRR com 2 velocidades, Furadeira de Impacto 360 RPM a 1.400 RPM, 110V, Modelo BCD704C1, 20V"
-    },
-    {
-        "title": "Furadeira Parafusadeira Impacto 18V Bosch GSB185LI-1B Sem Fio, 1 bateria"
+        "title": "Black Decker Furadeira e Parafusadeira 3/8 Pol Bateria, com 13 Acessórios e Caixa Transparente, Modelo LD12SP, Bivolt"
     },
     {
         "title": "Vonder, Parafusadeira/Furadeira Com Impacto A Bateria, 12 V, Fonte Bivolt Automática, Pfv 120i."
+    },
+    {
+        "title": "Bosch Parafusadeira Furadeira Gsr 120-Li 12V 1 Bateria E Maleta - Azul"
     },
     {
         "title": "DEWALT Parafusadeira e Furaderia de 1/2 Pol. (13mm) Brushless Motor a Bateria 20V MAX* Ion-Litio com 2 Baterias 2.0Ah e Carregador Bivolt e Maleta DCD7771D2"
@@ -90,6 +87,12 @@
         "title": "Bosch Parafusadeira E Furadeira De Impacto De ½' Gsb 180-Li 18V Com 1 Bateria 1 Carregador Bivolt E 1 Maleta"
     },
     {
+        "title": "Furadeira Parafusadeira Impacto 18V Bosch GSB185LI-1B Sem Fio, 1 bateria"
+    },
+    {
+        "title": "Parafusadeira Recarregável, Mondial, Vermelho/Preto, 4,8V, Bivolt - FPF-05"
+    },
+    {
         "title": "Furadeira/Parafusadeira 3/8\", FPV 300, 220 V~, Vonder VDO1109"
     },
     {
@@ -97,9 +100,6 @@
     },
     {
         "title": "Black Decker Kit Parafusadeira a Bateria 6,3mm Com 15 Acessórios para Ferramentas, Modelo KC4815K, Carregador Bivolt, 4,8V"
-    },
-    {
-        "title": "Parafusadeira Recarregável, Mondial, Vermelho/Preto, 4,8V, Bivolt - FPF-05"
     },
     {
         "title": "MAKITA PARAFUSADEIRA/FURADEIRA DE IMPACTO A BATERIA 12V CXT HP333DWYX3 COM CARREGADOR"
@@ -111,10 +111,10 @@
         "title": "Parafusadeira A Bateria 3,6 V, Carregador Bivolt, Jogo Com 12 Acessórios, Pbv 120, Vonder."
     },
     {
-        "title": "WAP Parafusadeira e Furadeira de Impacto 21V 3/8\" 45Nm 21 Níveis de Torque Bateria Li-Íon 1500 mAh 2 Velocidades Compacto e com Maleta WAP K21 ID01"
+        "title": "Bosch Parafusadeira Furadeira Impacto Gsb 18V-50 18V Brushless Com 2 Baterias 1 Carregador E Maleta"
     },
     {
-        "title": "Bosch Parafusadeira Furadeira Impacto Gsb 18V-50 18V Brushless Com 2 Baterias 1 Carregador E Maleta"
+        "title": "WAP Parafusadeira e Furadeira de Impacto 21V 3/8\" 45Nm 21 Níveis de Torque Bateria Li-Íon 1500 mAh 2 Velocidades Compacto e com Maleta WAP K21 ID01"
     },
     {
         "title": "Bosch Kit De Pontas E Brocas X-Line 33 Pçs"
@@ -123,10 +123,10 @@
         "title": "Bosch Parafusadeira Furadeira Gsb 180-Li 18V Com 2 Baterias 1 Carregador E 1 Maleta"
     },
     {
-        "title": "Black Decker Furadeira e Parafusadeira 3/8 Pol Bateria, 900 RPM, 13 Acessórios, Potência e Versatilidade, Modelo LD12S, 12V"
+        "title": "Bosch Kit Parafusadeira Gsr 120-Li E Chave De Impacto Gdr 120-Li 12V Com 2 Baterias 1 Carregador E 1 Maleta"
     },
     {
-        "title": "Bosch Kit Parafusadeira Gsr 120-Li E Chave De Impacto Gdr 120-Li 12V Com 2 Baterias 1 Carregador E 1 Maleta"
+        "title": "Black Decker Furadeira e Parafusadeira 3/8 Pol Bateria, 900 RPM, 13 Acessórios, Potência e Versatilidade, Modelo LD12S, 12V"
     },
     {
         "title": "WAP Furadeira de Impacto e Parafusadeira 700W WAP WF 700FE com Chave de Mandril 3/8\" Elétrica com Controle de Velocidade 220V"
@@ -168,9 +168,6 @@
         "title": "Parafusadeira E Furadeira Impacto Profissional Bateria Li-Ion 24V Sem Fio Com 2 Baterias Carregador Bivolt Maleta E Kit De 23 Acessórios Premium"
     },
     {
-        "title": "Black Decker Furadeira e Parafusadeira 3/8 Pol Bateria, com 13 Acessórios e Caixa Transparente, Modelo LD12SP, Bivolt"
-    },
-    {
         "title": "Black Decker Furadeira e Parafusadeira 3/8 Pol Bateria 12V, com 31 Acessórios e Maleta, Modelo LD12SC, Bivolt"
     },
     {
@@ -178,5 +175,8 @@
     },
     {
         "title": "BLACK+DECKER Soprador Térmico 1500W com Ajuste de Calor 110V HG1500"
+    },
+    {
+        "title": "Black Decker Kit Parafusadeira a Bateria 6,3mm Com 15 Acessórios para Ferramentas, Modelo KC4815K, Carregador Bivolt, 4,8V"
     }
 ]

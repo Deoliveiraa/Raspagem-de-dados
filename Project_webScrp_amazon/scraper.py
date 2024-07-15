@@ -8,6 +8,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 import os
 import subprocess
 import json
+from datetime import datetime
 
 # Configurações do Selenium
 options = Options()
@@ -79,6 +80,15 @@ def convert_csv_to_json():
         with open(f"{category}.json", 'w', encoding='utf-8') as json_file:
             json.dump(json.loads(json_data), json_file, ensure_ascii=False, indent=4)
 
+# Função para salvar DataFrame com histórico
+def save_with_history(df, category):
+    if not os.path.exists("historico_produtos"):
+        os.makedirs("historico_produtos")
+    
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    df['timestamp'] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    df.to_csv(f"historico_produtos/{category}_{timestamp}.csv", index=False)
+
 # Loop de execução contínua
 while True:
     # Extraindo dados e criando dataframes
@@ -91,6 +101,7 @@ while True:
     # Salvando os DataFrames em arquivos CSV
     for category, df in dataframes.items():
         df.to_csv(f"{category}.csv", index=False)
+        save_with_history(df, category)
 
     # Converter CSV para JSON
     convert_csv_to_json()

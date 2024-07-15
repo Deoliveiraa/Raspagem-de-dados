@@ -12,8 +12,8 @@
         "price": "797,90"
     },
     {
-        "title": "Black Decker Furadeira e Parafusadeira 3/8 Pol Bateria 12V, com 31 Acessórios e Maleta, Modelo LD12SC, Bivolt",
-        "price": "284,99"
+        "title": "Black Decker Furadeira de Impacto 10mm, Ferramenta Ideal para Trabalhos Pesados, Potência 560W, Modelo TM500, 110V",
+        "price": "162,32"
     },
     {
         "title": "WAP Parafusadeira E Furadeira A Bateria Li-Ion 12V Bpf 12K3 Carregador Bivolt Sem Fio Com Maleta E Kit De 13 Acessórios",
@@ -84,16 +84,16 @@
         "price": "1.599,00"
     },
     {
+        "title": "Black Decker Furadeira, Sem Fio, Max Matrix, 6 Cabeçotes Intercabiáveis, Modelo MTX20K6A, 220v",
+        "price": "1.324,03"
+    },
+    {
         "title": "Black Decker Furadeira de Impacto 10mm, Ferramenta Ideal para Trabalhos Pesados, Potência 560W, Com Maleta de Ferramentas e 9 Brocas, Modelo TM500KB9BR, 110V",
         "price": "238,91"
     },
     {
         "title": "Black Decker Furadeira e Parafusadeira 3/8 Pol Bateria, com 13 Acessórios e Caixa Transparente, Modelo LD12SP, Bivolt",
         "price": "253,88"
-    },
-    {
-        "title": "Scotch, 3M, Fixa Forte, Fita Dupla Face, Fixação Extrema, 24mm x 2m",
-        "price": "32,90"
     },
     {
         "title": "Black Decker Furadeira e Parafusadeira VRR com 2 velocidades, Furadeira de Impacto 360 RPM a 1.400 RPM, 110V, Modelo BCD704C1, 20V",
@@ -224,6 +224,10 @@
         "price": "239,90"
     },
     {
+        "title": "Black Decker Furadeira e Parafusadeira 3/8 Pol Bateria 12V, com 31 Acessórios e Maleta, Modelo LD12SC, Bivolt",
+        "price": "284,99"
+    },
+    {
         "title": "BLACK+DECKER Parafusadeira e Furadeira de 3/8 Pol. (10mm) a Bateria 8V Ion-Litio 1.5Ah 550 RPM com Carregador Bivolt 110V LD008",
         "price": "233,15"
     },
@@ -232,11 +236,7 @@
         "price": "566,91"
     },
     {
-        "title": "Black Decker Kit Parafusadeira a Bateria 6,3mm Com 15 Acessórios para Ferramentas, Modelo KC4815K, Carregador Bivolt, 4,8V",
-        "price": "165,90"
-    },
-    {
-        "title": "Black Decker Parafusadeira, Bateria 4.8V, com16 Acessórios, Modelo KC4815B, Bivolt",
-        "price": "134,30"
+        "title": "BLACK+DECKER Soprador Térmico 1500W com Ajuste de Calor 110V HG1500",
+        "price": "199,00"
     }
 ]

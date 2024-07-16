@@ -68,10 +68,13 @@ def extract_info(url):
 # Função para enviar arquivos ao GitHub
 def push_to_github():
     repo_dir = os.getcwd()  # Diretório do repositório
-    subprocess.run(["git", "add", "."], cwd=repo_dir)
-    subprocess.run(["git", "commit", "-m", "Atualização automática dos arquivos CSV"], cwd=repo_dir)
-    subprocess.run(["git", "pull", "--rebase"], cwd=repo_dir)
-    subprocess.run(["git", "push"], cwd=repo_dir)
+    try:
+        subprocess.run(["git", "add", "."], cwd=repo_dir)
+        subprocess.run(["git", "commit", "-m", "Atualização automática dos arquivos CSV"], cwd=repo_dir)
+        subprocess.run(["git", "pull", "--rebase"], cwd=repo_dir)
+        subprocess.run(["git", "push", "--quiet"], cwd=repo_dir)  # Adicionando --quiet para suprimir logs
+    except Exception as e:
+        print(f"Erro ao fazer push para o GitHub: {e}")
 
 # Função para converter CSV para JSON e salvar
 def convert_csv_to_json():
